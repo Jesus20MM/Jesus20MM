@@ -1,8 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Scientist...;Machine+Learning+&+Finance+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesus;Data+Scientist...;Machine+Learning..."/>
 
 
 

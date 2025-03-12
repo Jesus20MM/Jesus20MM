@@ -3,7 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús;Data+Scientist...;Machine+Learning...;Finance+Enthusiast..."/>
 
 
-
+<p align="center">
+  <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
+</p>
 
 ## About Me :
 
@@ -44,6 +46,42 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+
+
+
+## 🚀 Proyectos Destacados
+
+Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y Finanzas Cuantitativas.
+
+### 📈 [Nombre del Proyecto 1](URL_DEL_REPOSITORIO)
+**Descripción breve:** Explica en una o dos líneas de qué trata el proyecto.  
+- 🔹 **Tecnologías usadas:** Python, Pandas, Scikit-Learn, etc.  
+- 🔹 **Casos de uso:** Predicción de precios, análisis de riesgos, etc.  
+- 🔹 **Principales logros:** Mejoró la precisión del modelo en un 15%, optimización del rendimiento, etc.  
+
+---
+
+### 🤖 [Nombre del Proyecto 2](URL_DEL_REPOSITORIO)
+**Descripción breve:** Breve resumen del propósito del proyecto.  
+- 🔹 **Tecnologías usadas:** TensorFlow, PyTorch, SQL, etc.  
+- 🔹 **Casos de uso:** Algoritmo de trading, modelo de predicción, etc.  
+- 🔹 **Principales logros:** Implementación de backtesting, reducción de errores, etc.  
+
+---
+
+### 📊 [Nombre del Proyecto 3](URL_DEL_REPOSITORIO)
+**Descripción breve:** Explicación corta del proyecto.  
+- 🔹 **Tecnologías usadas:** Power BI, SQL, Python.  
+- 🔹 **Casos de uso:** Visualización de datos financieros, análisis de portafolios.  
+- 🔹 **Principales logros:** Dashboard interactivo, análisis de tendencias del mercado.  
+
+---
+
+## 📂 Otros proyectos
+Puedes explorar más proyectos en mi [GitHub](https://github.com/TU_USUARIO).
+
+
 
 
 

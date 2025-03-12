@@ -50,29 +50,16 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 
 
-## 🚀 Skills & Technologies
+## 🚀 Nivel de Habilidad
 
-### 📊 Nivel de Habilidad
-
-#### 🐍 Python  
-![Python](https://progress-bar.dev/85/?title=Python)  
-
-#### 🛢️ SQL  
-![SQL](https://progress-bar.dev/75/?title=SQL)  
-
-#### 📈 Power BI  
-![Power BI](https://progress-bar.dev/60/?title=Power%20BI)  
-
-#### ☁️ AWS  
-![AWS](https://progress-bar.dev/40/?title=AWS)  
-
-#### 🤖 Machine Learning  
-![ML](https://progress-bar.dev/70/?title=Machine%20Learning)  
-
-#### 📉 Finanzas Cuantitativas  
-![Finance](https://progress-bar.dev/50/?title=Finance)  
-
-
+| Tecnología                | Nivel |
+|---------------------------|-------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <svg width="200" height="20"><rect width="85%" height="100%" fill="#4CAF50"/><rect x="85%" width="15%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">85%</text></svg> |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | <svg width="200" height="20"><rect width="75%" height="100%" fill="#4CAF50"/><rect x="75%" width="25%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | <svg width="200" height="20"><rect width="60%" height="100%" fill="#4CAF50"/><rect x="60%" width="40%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">60%</text></svg> |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | <svg width="200" height="20"><rect width="40%" height="100%" fill="#4CAF50"/><rect x="40%" width="60%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">40%</text></svg> |
+| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | <svg width="200" height="20"><rect width="70%" height="100%" fill="#4CAF50"/><rect x="70%" width="30%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
+| ![Finance](https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge&logo=chartbar&logoColor=white) | <svg width="200" height="20"><rect width="50%" height="100%" fill="#4CAF50"/><rect x="50%" width="50%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">50%</text></svg> |
 
 
 

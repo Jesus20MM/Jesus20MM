@@ -9,25 +9,25 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
+- 🏢 I am currently aspiring to be a **Junior Data Scientist**, getting my first opportunity. 
+- 🎓 Studies for Physics at Universidad Autónoma Metropolitana
+- 🎓 Student at datacamp as Machine Learning scientist
+- 🏡 Lives in **México**
+-  📖 self-taught data science and finance
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
 
 
 
 <div>
  <p>
 
-I am 20 years old and I double major in Computer Science and Mathematics with a concentration in Actuarial Science at University of Massachusetts, Amherst. I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
+Mi nombre es Jesús, tengo 22 años y estoy por terminar la licenciatura en Física, con servicio social y tesis en analítica geoespacial. Me fascinan el machine learning y las finanzas, y aspiro a convertirme en un científico de machine learning exitoso. Actualmente, me identifico con el perfil de data scientist.
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
+También me apasiona el análisis de datos para extraer información valiosa y estratégica. Aspiro a trabajar en una empresa donde pueda desarrollar software enfocado en ciencia de datos y generar un impacto positivo en la sociedad y organización.
 
-I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package is which is an open-source power development tool for stock data analysis including msart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions. 
+Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes colaborar. No dudes en echar un vistazo a mis repositorios.
 
-Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
 
 </h4>
 </div>
@@ -43,7 +43,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,github,mysql,py,vscode," />
   </a>
 </p>
 
@@ -57,6 +57,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <svg width="200" height="20"><rect width="85%" height="100%" fill="#4CAF50"/><rect x="85%" width="15%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">85%</text></svg> |
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | <svg width="200" height="20"><rect width="75%" height="100%" fill="#4CAF50"/><rect x="75%" width="25%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | <svg width="200" height="20"><rect width="60%" height="100%" fill="#4CAF50"/><rect x="60%" width="40%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">60%</text></svg> |
+| ![Inglés](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <svg width="200" height="20"><rect width="85%" height="100%" fill="#4CAF50"/><rect x="85%" width="15%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">B1</text></svg> |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | <svg width="200" height="20"><rect width="40%" height="100%" fill="#4CAF50"/><rect x="40%" width="60%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">40%</text></svg> |
 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | <svg width="200" height="20"><rect width="70%" height="100%" fill="#4CAF50"/><rect x="70%" width="30%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
 | ![Finance](https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge&logo=chartbar&logoColor=white) | <svg width="200" height="20"><rect width="50%" height="100%" fill="#4CAF50"/><rect x="50%" width="50%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">50%</text></svg> |

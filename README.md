@@ -50,6 +50,32 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 
 
+## 🚀 Skills & Technologies
+
+### 📊 Nivel de Habilidad
+
+#### 🐍 Python  
+![Python](https://progress-bar.dev/85/?title=Python)  
+
+#### 🛢️ SQL  
+![SQL](https://progress-bar.dev/75/?title=SQL)  
+
+#### 📈 Power BI  
+![Power BI](https://progress-bar.dev/60/?title=Power%20BI)  
+
+#### ☁️ AWS  
+![AWS](https://progress-bar.dev/40/?title=AWS)  
+
+#### 🤖 Machine Learning  
+![ML](https://progress-bar.dev/70/?title=Machine%20Learning)  
+
+#### 📉 Finanzas Cuantitativas  
+![Finance](https://progress-bar.dev/50/?title=Finance)  
+
+
+
+
+
 ## 🚀 Proyectos Destacados
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y Finanzas Cuantitativas.

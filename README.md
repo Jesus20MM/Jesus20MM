@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## About Me :
+
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -12,6 +24,11 @@
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+
+
+
+
 
 
 <!-- Connect with me -->

@@ -10,7 +10,7 @@
 ## About Me :
 
 - 🏢 I am currently aspiring to be a **Junior Data Scientist**, getting my first opportunity. 
-- 🎓 Studies for Physics at Universidad Autónoma Metropolitana
+- 🎓 Studies for Physics at Universidad Autónoma Metropolitana, Ciudad de México
 - 🎓 Student at datacamp as Machine Learning scientist
 - 🏡 Lives in **México**
 -  📖 self-taught data science and finance
@@ -22,7 +22,7 @@
 <div>
  <p>
 
-Mi nombre es Jesús, tengo 22 años y estoy por terminar la licenciatura en Física, con servicio social y tesis en analítica geoespacial. Me fascinan el machine learning y las finanzas, y aspiro a convertirme en un científico de machine learning exitoso. Actualmente, me identifico con el perfil de data scientist.
+Mi nombre es Jesús, tengo 22 años y estoy por terminar la licenciatura en Física, con servicio social y tesis en analítica geoespacial. Me fascinan el machine learning y las finanzas, y aspiro a convertirme en un científico de machine learning exitoso. Actualmente, me identifico con el perfil de data scientist. En septiembre de 2022 comencé a incursionar en el fascinante y desafiante mundo de la ciencia de datos y Machine Learning y desde entonces, no he parado de formarme, hacer proyectos y seguir investigando.
 
 También me apasiona el análisis de datos para extraer información valiosa y estratégica. Aspiro a trabajar en una empresa donde pueda desarrollar proyectos de software enfocado en ciencia de datos y generar un impacto positivo en la sociedad y organización. Me encanta aprender cosas técnicas y poder combinar el conocimiento.
 
@@ -51,10 +51,12 @@ Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes
 
 
 
-# 💼 Otras habilidades y software
+![📖 Otras habilidades y software](https://img.shields.io/badge/📖%20Otras%20habilidades%20y%20software-555555?style=for-the-badge)
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white)
+
 
 
 
@@ -81,7 +83,7 @@ Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes
 
 
 
-# 💼 Formacion autodidácta y continua
+# 📖 Formacion autodidácta y continua
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)

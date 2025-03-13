@@ -1,4 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
+# 👋Hey there, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús;Data+Scientist...;Machine+Learning...;Finance+Enthusiast..."/>
 
@@ -12,9 +12,9 @@
 - 🏢 I am currently aspiring to be a **Junior Data Scientist**, getting my first opportunity. 
 - 🎓 Studies for Physics at Universidad Autónoma Metropolitana, Ciudad de México
 - 🎓 Student at datacamp as Machine Learning scientist
-- 🏡 Lives in **México**
+- 🏡 Lives in **México, Estado de México**
 -  📖 self-taught data science and finance
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
 
 
 
@@ -51,11 +51,11 @@ Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes
 
 
 
-![📖 Otras habilidades y software](https://img.shields.io/badge/📖%20Otras%20habilidades%20y%20software-555555?style=for-the-badge)
+# 📖 Otras habilidades y software
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white)
 
 
 
@@ -74,23 +74,20 @@ Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes
 | Tecnología                | Nivel |
 |---------------------------|-------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <svg width="200" height="20"><rect width="85%" height="100%" fill="#4CAF50"/><rect x="85%" width="15%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">85%</text></svg> |
+| ![Estadística y Probabilidad](https://img.shields.io/badge/Estadística%20y%20Probabilidad-4CAF50?style=for-the-badge&logo=chart-bar&logoColor=white) | <svg width="200" height="20"><rect width="50%" height="100%" fill="#4CAF50"/><rect x="50%" width="50%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |
+| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | <svg width="200" height="20"><rect width="70%" height="100%" fill="#4CAF50"/><rect x="70%" width="30%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | <svg width="200" height="20"><rect width="75%" height="100%" fill="#4CAF50"/><rect x="75%" width="25%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | <svg width="200" height="20"><rect width="60%" height="100%" fill="#4CAF50"/><rect x="60%" width="40%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">60%</text></svg> |
 ![Inglés](https://img.shields.io/badge/Inglés-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | <svg width="200" height="20"><rect width="40%" height="100%" fill="#4CAF50"/><rect x="40%" width="60%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">B1</text></svg> |
-| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | <svg width="200" height="20"><rect width="70%" height="100%" fill="#4CAF50"/><rect x="70%" width="30%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
-| ![Finance](https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge&logo=chartbar&logoColor=white) | <svg width="200" height="20"><rect width="50%" height="100%" fill="#4CAF50"/><rect x="50%" width="50%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">50%</text></svg> |
+| ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | <svg width="200" height="20"><rect width="35%" height="100%" fill="#FFA500"/><rect x="35%" width="65%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
+
+
 
 
 
 
 # 📖 Formacion autodidácta y continua
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
-
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white)  
-
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white)  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
 

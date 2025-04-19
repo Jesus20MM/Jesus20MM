@@ -1,4 +1,4 @@
-# 👋Hey there, Welcome to my Github Profile
+# 👋Hola, bienvenido al perfil de Github de Jesús.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús;Data+Scientist...;Machine+Learning...;Finance+Enthusiast..."/>
 
@@ -9,11 +9,12 @@
 
 ## About Me :
 
-- 🏢 I am currently aspiring to be a **Junior Data Scientist**, getting my first opportunity. 
-- 🎓 Studies for Physics at Universidad Autónoma Metropolitana, Ciudad de México
-- 🎓 Student at datacamp as Machine Learning scientist
-- 🏡 Lives in **México, Estado de México**
--  📖 self-taught data science and finance
+- 🏢 Actualmente aspiro a ser **Científico de Datos Junior**, buscando oportunidades.
+- 🎓 Estudié Física en la Universidad Autónoma Metropolitana, Ciudad de México.
+- 🎓 Estudio activamente en Datacamp como científico de Machine Learning desde hace varios meses
+- 🏡 Vivo en **México, Estado de México**
+- 📖 Autodidacta en ciencia de datos desde 2022
+- 🧮 Etusiasta de las finanzas
 
 
 
@@ -22,11 +23,47 @@
 <div>
  <p>
 
-Mi nombre es Jesús, tengo 22 años y estoy por terminar la licenciatura en Física, con servicio social y tesis en analítica geoespacial. Me fascinan el machine learning y las finanzas, y aspiro a convertirme en un científico de machine learning exitoso. Actualmente, me identifico con el perfil de data scientist. En septiembre de 2022 comencé a incursionar en el fascinante y desafiante mundo de la ciencia de datos y Machine Learning y desde entonces, no he parado de formarme, hacer proyectos y seguir investigando.
+🎓 Hola, soy Jesús.
 
-También me apasiona el análisis de datos para extraer información valiosa y estratégica. Aspiro a trabajar en una empresa donde pueda desarrollar proyectos de software enfocado en ciencia de datos y generar un impacto positivo en la sociedad y organización. Me encanta aprender cosas técnicas y poder combinar el conocimiento.
+Tengo 22 años y estoy por concluir la licenciatura en Física, realizando mi tesis y servicio social en el área de analítica geoespacial. Desde septiembre de 2022, me he sumergido en el apasionante mundo de la ciencia de datos y el machine learning, y desde entonces no he dejado de aprender, desarrollar proyectos y seguir creciendo mi conocimiento y experiencia práctica en esta área.
 
-Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes colaborar. No dudes en echar un vistazo a mis repositorios.
+📊 Apasionado por los datos y el conocimiento técnico.
+
+Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist, con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de machine learning, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
+
+Tengo experiencia practica trabajando con:
+
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+- SQL para análisis y manejo de bases de datos
+
+- Power BI para visualización interactiva de datos
+
+- Git y GitHub para control de versiones y trabajo colaborativo
+
+
+🚀 Actualmente, estoy desarrollando proyectos de:
+
+- Predicción de series de tiempo financieras
+
+- Modelos de riesgo y optimización de portafolios
+
+- Análisis exploratorio de datos geoespaciales
+
+
+
+💡 Objetivo profesional.
+
+Busco formar parte de una organización donde pueda aplicar mis habilidades técnicas en el desarrollo de proyectos de ciencia de datos, contribuir al crecimiento de la empresa y generar un impacto real en la sociedad y organización.
+
+🤝 Siempre abierto a aprender y colaborar.
+
+Estoy en constante búsqueda de nuevos conocimientos, desafíos y personas con quienes compartir ideas y construir proyectos.
+
+
+
+
+No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 
 </h4>
@@ -71,7 +108,7 @@ Siempre estoy en busca de nuevos proyectos, conocimientos y personas con quienes
 
 ## 🚀 Nivel de Habilidad
 
-| Tecnología                | Nivel |
+| Tecnología o habilidad               | Nivel |
 |---------------------------|-------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <svg width="200" height="20"><rect width="85%" height="100%" fill="#4CAF50"/><rect x="85%" width="15%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">85%</text></svg> |
 | ![Estadística y Probabilidad](https://img.shields.io/badge/Estadística%20y%20Probabilidad-4CAF50?style=for-the-badge&logo=chart-bar&logoColor=white) | <svg width="200" height="20"><rect width="50%" height="100%" fill="#4CAF50"/><rect x="50%" width="50%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |

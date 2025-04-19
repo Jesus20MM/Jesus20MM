@@ -7,7 +7,7 @@
   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
 </p>
 
-## About Me :
+# Sobre mí:
 
 🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en ciencia de datos y modelado de sistemas complejos.
 
@@ -86,7 +86,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 
 
-# 📖 Otras habilidades y software
+# 📖 Más habilidades y software
 
 
 
@@ -110,6 +110,15 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 | ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
 
 
+## 🧠 Habilidades Blandas
+
+- 🧠 Pensamiento analítico y abtracto (por mis estudios científicos)
+- 📢 Comunicación efectiva (en reuniones con mi equipo colaborativo)
+- 🤝 Trabajo en equipo y colaboración (con mi equipo colaborativo)
+- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente optimizando tiempo de forma estratégica)
+- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología)
+- 🧩 Resolución de problemas (desde problemas cientificos hasta enfrentarme con datos sucios en proyectos practicos)
+
 
 
 
@@ -120,7 +129,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 
 
-## 🚀 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 

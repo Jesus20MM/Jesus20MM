@@ -1,6 +1,6 @@
 # 👋Hola, bienvenido al perfil de Github de Jesús.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jesús;Data+Scientist...;Machine+Learning...;Finance+Enthusiast..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús;Data+Scientist+Jr...;Machine+Learning...;Entusiasta+de+finanzas"/>
 
 
 <p align="center">
@@ -9,13 +9,10 @@
 
 ## About Me :
 
-- 🏢 Actualmente aspiro a ser **Científico de Datos Junior**, buscando oportunidades.
-- 🎓 Estudié Física en la Universidad Autónoma Metropolitana, Ciudad de México.
-- 🎓 Estudio activamente en Datacamp como científico de Machine Learning desde hace varios meses
-- 🏡 Vivo en **México, Estado de México**
-- 📖 Autodidacta en ciencia de datos desde 2022
-- 🧮 Etusiasta de las finanzas
-
+🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial.  
+🚀 Apasionado por la ciencia de datos y el aprendizaje automático (machine learning) desde 2022.  
+🏡 Vivo en el Estado de México, México.  
+📚 Autodidacta constante, con formación complementaria en DataCamp, Coursera y Udemy.
 
 
 
@@ -25,7 +22,9 @@
 
 🎓 Hola, soy Jesús.
 
-Tengo 22 años y estoy por concluir la licenciatura en Física, realizando mi tesis y servicio social en el área de analítica geoespacial. Desde septiembre de 2022, me he sumergido en el apasionante mundo de la ciencia de datos y el machine learning, y desde entonces no he dejado de aprender, desarrollar proyectos y seguir creciendo mi conocimiento y experiencia práctica en esta área.
+Tengo 23 años y estoy por concluir la licenciatura en Física, realizando mi tesis y servicio social en el área de analítica geoespacial. Desde septiembre de 2022, me he sumergido en el apasionante mundo de la ciencia de datos y el machine learning, y desde entonces no he dejado de aprender, desarrollar proyectos y seguir creciendo mi conocimiento y experiencia práctica en esta área tanto individualmente como en equipo.
+
+
 
 📊 Apasionado por los datos y el conocimiento técnico.
 
@@ -41,15 +40,11 @@ Tengo experiencia practica trabajando con:
 
 - Git y GitHub para control de versiones y trabajo colaborativo
 
+Tengo multiples proyectos hechos en puthon, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
 
 🚀 Actualmente, estoy desarrollando proyectos de:
 
-- Predicción de series de tiempo financieras
-
-- Modelos de riesgo y optimización de portafolios
-
-- Análisis exploratorio de datos geoespaciales
-
+- Predicion de tasas de interes
 
 
 💡 Objetivo profesional.
@@ -58,7 +53,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 🤝 Siempre abierto a aprender y colaborar.
 
-Estoy en constante búsqueda de nuevos conocimientos, desafíos y personas con quienes compartir ideas y construir proyectos.
+Estoy en constante búsqueda de nuevos conocimientos, desafíos y personas con quienes compartir ideas y construir proyectos. Tanto es asi que he formado un equipo colaborativo para realizar proyectos y otras actividades relacionadas con ciencia de datos
 
 
 

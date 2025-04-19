@@ -17,6 +17,8 @@
 
 📚 Autodidacta constante, con formación complementaria en DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning)) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
 
+📔 Ingles B1 en Quick learning*
+
 
 
 
@@ -92,33 +94,20 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
  
 
- 
 
 
+## 🚀 Habilidades destacadas
 
-
-
-
-
-
-
-
-
-
-
-
-## 🚀 Nivel de Habilidad
-
-| Tecnología o habilidad               | Nivel |
-|---------------------------|-------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | <svg width="200" height="20"><rect width="85%" height="100%" fill="#4CAF50"/><rect x="85%" width="15%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">85%</text></svg> |
-| ![Estadística y Probabilidad](https://img.shields.io/badge/Estadística%20y%20Probabilidad-4CAF50?style=for-the-badge&logo=chart-bar&logoColor=white) | <svg width="200" height="20"><rect width="50%" height="100%" fill="#4CAF50"/><rect x="50%" width="50%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |
-| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | <svg width="200" height="20"><rect width="70%" height="100%" fill="#4CAF50"/><rect x="70%" width="30%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | <svg width="200" height="20"><rect width="75%" height="100%" fill="#4CAF50"/><rect x="75%" width="25%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">75%</text></svg> |
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | <svg width="200" height="20"><rect width="60%" height="100%" fill="#4CAF50"/><rect x="60%" width="40%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">60%</text></svg> |
-![Inglés](https://img.shields.io/badge/Inglés-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | <svg width="200" height="20"><rect width="40%" height="100%" fill="#4CAF50"/><rect x="40%" width="60%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">B1</text></svg> |
-| ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | <svg width="200" height="20"><rect width="35%" height="100%" fill="#FFA500"/><rect x="35%" width="65%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
-| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoesapcial-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | <svg width="200" height="20"><rect width="35%" height="100%" fill="#FFA500"/><rect x="35%" width="65%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
+| Tecnología o habilidad | Nivel |
+|------------------------|-------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85% |
+| ![Estadística y Probabilidad](https://img.shields.io/badge/Estadística%20y%20Probabilidad-4CAF50?style=for-the-badge&logo=chart-bar&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75% |
+| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70% |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | 🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜ 75% |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | 🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60% |
+| ![Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=amazonaws&logoColor=white) | 🔵🔵🔵🔵🔵⬜⬜⬜⬜⬜ 40% (B1) |
+| ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
+| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
 
 
 

@@ -12,7 +12,7 @@
 🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial.  
 🚀 Apasionado por la ciencia de datos y el aprendizaje automático (machine learning) desde 2022.  
 🏡 Vivo en el Estado de México, México.  
-📚 Autodidacta constante, con formación complementaria en DataCamp, Coursera y Udemy.
+📚 Autodidacta constante, con formación complementaria en DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning)) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
 
 
 
@@ -20,10 +20,8 @@
 <div>
  <p>
 
-🎓 Hola, soy Jesús.
 
-Tengo 23 años y estoy por concluir la licenciatura en Física, realizando mi tesis y servicio social en el área de analítica geoespacial. Desde septiembre de 2022, me he sumergido en el apasionante mundo de la ciencia de datos y el machine learning, y desde entonces no he dejado de aprender, desarrollar proyectos y seguir creciendo mi conocimiento y experiencia práctica en esta área tanto individualmente como en equipo.
-
+Tengo 23 años y durante este tiempo me he dedicado a adquirir conocimientos y habilidades en el area de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando asi, experiencia práctica.
 
 
 📊 Apasionado por los datos y el conocimiento técnico.
@@ -38,7 +36,7 @@ Tengo experiencia practica trabajando con:
 
 - Power BI para visualización interactiva de datos
 
-- Git y GitHub para control de versiones y trabajo colaborativo
+- Git y GitHub para control de versiones 
 
 Tengo multiples proyectos hechos en puthon, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
 
@@ -53,7 +51,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 🤝 Siempre abierto a aprender y colaborar.
 
-Estoy en constante búsqueda de nuevos conocimientos, desafíos y personas con quienes compartir ideas y construir proyectos. Tanto es asi que he formado un equipo colaborativo para realizar proyectos y otras actividades relacionadas con ciencia de datos
+Estoy en constante búsqueda de nuevos conocimientos, experiencias, desafíos y personas con quienes compartir ideas y construir proyectos. Tanto es asi que he formado un equipo colaborativo para realizar proyectos y otras actividades relacionadas con ciencia de datos
 
 
 
@@ -69,7 +67,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que sé👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -87,7 +85,12 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+ 
+
+ 
+
 
 
 
@@ -112,7 +115,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | <svg width="200" height="20"><rect width="60%" height="100%" fill="#4CAF50"/><rect x="60%" width="40%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">60%</text></svg> |
 ![Inglés](https://img.shields.io/badge/Inglés-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | <svg width="200" height="20"><rect width="40%" height="100%" fill="#4CAF50"/><rect x="40%" width="60%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">B1</text></svg> |
 | ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | <svg width="200" height="20"><rect width="35%" height="100%" fill="#FFA500"/><rect x="35%" width="65%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
-
+| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoesapcial-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | <svg width="200" height="20"><rect width="35%" height="100%" fill="#FFA500"/><rect x="35%" width="65%" height="100%" fill="#ddd"/><text x="50%" y="14" fill="black" font-size="14" font-weight="bold" text-anchor="middle">70%</text></svg> |
 
 
 
@@ -127,7 +130,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 ## 🚀 Proyectos Destacados
 
-Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y Finanzas Cuantitativas.
+Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 
 ### 📈 [Nombre del Proyecto 1](URL_DEL_REPOSITORIO)
 **Descripción breve:** Explica en una o dos líneas de qué trata el proyecto.  

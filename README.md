@@ -9,9 +9,12 @@
 
 ## About Me :
 
-🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial.  
+🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en ciencia de datos y modelado de sistemas complejos.
+
 🚀 Apasionado por la ciencia de datos y el aprendizaje automático (machine learning) desde 2022.  
+
 🏡 Vivo en el Estado de México, México.  
+
 📚 Autodidacta constante, con formación complementaria en DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning)) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
 
 

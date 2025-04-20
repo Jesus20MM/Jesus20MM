@@ -1,6 +1,6 @@
 # 👋Hola, bienvenido al perfil de Github de Jesús.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús;Data+Scientist+Jr...;Machine+Learning...;Entusiasta+de+finanzas"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning...;Entusiasta+de+las+finanzas"/>
 
 
 <p align="center">
@@ -26,7 +26,7 @@
  <p>
 
 
-Tengo 23 años y durante este tiempo me he dedicado a adquirir conocimientos y habilidades en el area de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando asi, experiencia práctica.
+Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir conocimientos y habilidades en el area de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando asi, experiencia práctica.
 
 
 📊 Apasionado por los datos y el conocimiento técnico.
@@ -43,7 +43,7 @@ Tengo experiencia practica trabajando con:
 
 - Git y GitHub para control de versiones 
 
-Tengo multiples proyectos hechos en puthon, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
+Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
 
 🚀 Actualmente, estoy desarrollando proyectos de:
 
@@ -133,9 +133,12 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 
-### 📈 [Nombre del Proyecto 1](URL_DEL_REPOSITORIO)
-**Descripción breve:** Explica en una o dos líneas de qué trata el proyecto.  
-- 🔹 **Tecnologías usadas:** Python, Pandas, Scikit-Learn, etc.  
+### 📈 [Recursos humanos](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar los la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
+
+**Posibles mejoras**: Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
+
+- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, estadística.  
 - 🔹 **Casos de uso:** Predicción de precios, análisis de riesgos, etc.  
 - 🔹 **Principales logros:** Mejoró la precisión del modelo en un 15%, optimización del rendimiento, etc.  
 

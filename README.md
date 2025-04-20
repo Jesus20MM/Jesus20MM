@@ -48,6 +48,7 @@ Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te
 🚀 Actualmente, estoy desarrollando proyectos de:
 
 - Predicion de tasas de interes
+- Prediccion de accidentes cerebrovasculares
 
 
 💡 Objetivo profesional.
@@ -134,12 +135,12 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 
 ### 📈 [Recursos humanos](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
+**Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
 
 **Posibles mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn.  
-- 🔹 **Casos de uso:** Prediccion de abandono de la empresa
+- 🔹 **Casos de uso:** Prediccion de abandono de la empresa.
 - 🔹 **Principales logros:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, conocimiento del flujo completo de un proyecto de analítica de datos con Python.  
 
 ---
@@ -147,21 +148,69 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ### 🤖 [Muertes en el mundo](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado imposible o más complicado.
 
-**Posibles mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o paíuses vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado.
+**Posibles mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 
-- 🔹 **Tecnologías usadas:** Pandas, Numpy, matplotlib, seaborn.
+- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Numpy, matplotlib, seaborn.
 - 🔹 **Casos de uso:** Visualizaciones de tendencia. 
-- 🔹 **Principales logros:** Implementación de backtesting, reducción de errores, etc.  
+- 🔹 **Principales logros:** Hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo
+---
+
+### 📊 [Marketing](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+- 🔹 **Casos de uso:** Segmentacion de clientes.
+- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
 
 ---
 
-### 📊 [Nombre del Proyecto 3](URL_DEL_REPOSITORIO)
-**Descripción breve:** Explicación corta del proyecto.  
-- 🔹 **Tecnologías usadas:** Power BI, SQL, Python.  
-- 🔹 **Casos de uso:** Visualización de datos financieros, análisis de portafolios.  
-- 🔹 **Principales logros:** Dashboard interactivo, análisis de tendencias del mercado.  
+### 📊 [Marketing](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+- 🔹 **Casos de uso:** Segmentacion de clientes.
+- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
 
 ---
+
+
+### 📊 [Marketing](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+- 🔹 **Casos de uso:** Segmentacion de clientes.
+- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+
+---
+
+
+
+### 📊 [Marketing](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+- 🔹 **Casos de uso:** Segmentacion de clientes.
+- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+
+---
+
+
+### 📊 [Marketing](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+- 🔹 **Casos de uso:** Segmentacion de clientes.
+- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+
+---
+
+
+### 📊 [Marketing](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+- 🔹 **Casos de uso:** Segmentacion de clientes.
+- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+
+---
+
+
+
+
 
 ## 📂 Otros proyectos
 Puedes explorar más proyectos en mi [GitHub](https://github.com/TU_USUARIO).

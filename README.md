@@ -134,20 +134,23 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 
 ### 📈 [Recursos humanos](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar los la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
+**Descripción breve:** En este proyecto guiado se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
 
-**Posibles mejoras**: Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
+**Posibles mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, estadística.  
-- 🔹 **Casos de uso:** Predicción de precios, análisis de riesgos, etc.  
-- 🔹 **Principales logros:** Mejoró la precisión del modelo en un 15%, optimización del rendimiento, etc.  
+- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn.  
+- 🔹 **Casos de uso:** Prediccion de abandono de la empresa
+- 🔹 **Principales logros:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, conocimiento del flujo completo de un proyecto de analítica de datos con Python.  
 
 ---
 
-### 🤖 [Nombre del Proyecto 2](URL_DEL_REPOSITORIO)
-**Descripción breve:** Breve resumen del propósito del proyecto.  
-- 🔹 **Tecnologías usadas:** TensorFlow, PyTorch, SQL, etc.  
-- 🔹 **Casos de uso:** Algoritmo de trading, modelo de predicción, etc.  
+### 🤖 [Muertes en el mundo](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado imposible o más complicado.
+
+**Posibles mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o paíuses vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado.
+
+- 🔹 **Tecnologías usadas:** Pandas, Numpy, matplotlib, seaborn.
+- 🔹 **Casos de uso:** Visualizaciones de tendencia. 
 - 🔹 **Principales logros:** Implementación de backtesting, reducción de errores, etc.  
 
 ---

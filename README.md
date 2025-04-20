@@ -139,7 +139,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 **Posibles mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn.  
+- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn, clasificacion.
 - 🔹 **Casos de uso:** Prediccion de abandono de la empresa.
 - 🔹 **Principales logros:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, conocimiento del flujo completo de un proyecto de analítica de datos con Python.  
 
@@ -157,36 +157,23 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 ### 📊 [Marketing](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
+
+**Posibles mejoras:** El modelo se optimizo mediante el umbral, pero se puede implementar otro tipo de mejora de rendimiento mas robusto, asi como profundizar en la optimizacion de los demas modelos
+
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion
 - 🔹 **Casos de uso:** Segmentacion de clientes.
 - 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
 
 ---
 
-### 📊 [Marketing](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
-- 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+### 📊 [Accidente cerebrovascular](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto intentamos predecir la probabilidad de accidente cerebrovascular a partir de una serie de caracteriosticas mediante una regresion logistica y otros clasificadores. Se dio enfasis en el analisis de la matriz de confusion priorizando los falsos negativos ya que es de alta prioridad en el area medica y en particular en este caso.
 
----
+**Posibles mejoras:** Implementar mas modleos para mejorar las metricas en conjunto y no solo los falsos negativos
 
-
-### 📊 [Marketing](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
-- 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
-
----
-
-
-
-### 📊 [Marketing](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
-- 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion
+- 🔹 **Casos de uso:** Prevencion de accidnetes cerebrovasculares
+- 🔹 **Principales logros:** Dado un modelo de clasificacion como la regresion logistica, se mejoraron los falsos negativos como prioridad, es decir, se hizo el analisis compelto de Rcall para minimizar los falsos negativos, solucion del problema de desbalance de clases
 
 ---
 
@@ -200,13 +187,6 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ---
 
 
-### 📊 [Marketing](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
-- 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
-
----
 
 
 

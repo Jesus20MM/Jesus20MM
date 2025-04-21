@@ -141,8 +141,11 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn, clasificacion.
 - 🔹 **Casos de uso:** Prediccion de abandono de la empresa.
-- 🔹 **Principales logros:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, conocimiento del flujo completo de un proyecto de analítica de datos con Python.  
+- 🔹 **Resultados:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, conocimiento del flujo completo de un proyecto de analítica de datos con Python.  
+- 🔹 **Qué aprendí:**
+- 🔹 Futuras mejoras:**
 
+  
 ---
 
 ### 🤖 [Muertes en el mundo Python](URL_DEL_REPOSITORIO)
@@ -188,6 +191,20 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Principales logros:** 
 
 ---
+
+
+### 📊 [Analisis demografico en la CDMX Python](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto basico de visualizacion se pretende dar visualizaciones sencillas de la ciudad de mexico segun los indicadores de densidad de poblacion y poblacion segun el genero
+
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Python, pandas, matplotlib, follium, geopandas.
+- 🔹 **Casos de uso:** Visualizacion de indicadores en geometrias
+- 🔹 **Principales logros:** Se logró la union de tablas, ya que los indicadores tenias mas observaciones que las tablas de tipo geodataframe.
+
+---
+
+
 
 ### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este reporte se hicieron visualizaciones segun los indicadores de region, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la roma de decisiones
@@ -281,7 +298,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 ## 📂 Otros proyectos
-Puedes explorar más proyectos en mi [GitHub](https://github.com/TU_USUARIO).
+Si quieres ver mas proyectos que he hecho, puedes cosnultar el repositorio siguiente: [GitHub](https://github.com/TU_USUARIO).
 
 
 

@@ -212,14 +212,27 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 ### 📊 [Análisis de tickets Power BI](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este reporte se hicieron dos reportes; uno de ingresos y otro de utilidad.
+**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfaccion de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnologia
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
-- 🔹 **Casos de uso:** Identificar beneficios de la compañia
-- 🔹 **Principales logros:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
+- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, basicos de lenguaje M,creacion de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimizacion de tablas, basicos de dax, bookmarks
+- 🔹 **Casos de uso:** Identificar satisfaccion del cliente mediante tickets
+- 🔹 **Principales logros:** Se logró hacer optimizacion de tablas de dimensiones, estructurar multiples visualizaciones con tabla calendario y modelo estrella
 
 ---
+
+
+### 📊 [](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfaccion de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnologia
+
+
+**En curso...**
+
+- 🔹 **Tecnologías y habilidades usadas:** 
+- 🔹 **Casos de uso:**
+- 🔹 **Principales logros:** 
+---
+
 
 
 ## 📂 Otros proyectos

@@ -200,17 +200,26 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ---
 
 
-### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este reporte se hicieron visualizaciones segun los indicadores de region, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la roma de decisiones
+### 📊 [Análisis de datos financieros Power BI](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este reporte se hicieron dos reportes; uno de ingresos y otro de utilidad.
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
-- 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
-- 🔹 **Principales logros:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
+- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
+- 🔹 **Casos de uso:** Identificar beneficios de la compañia
+- 🔹 **Principales logros:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
 
 ---
 
 
+### 📊 [Análisis de tickets Power BI](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este reporte se hicieron dos reportes; uno de ingresos y otro de utilidad.
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
+- 🔹 **Casos de uso:** Identificar beneficios de la compañia
+- 🔹 **Principales logros:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
+
+---
 
 
 ## 📂 Otros proyectos

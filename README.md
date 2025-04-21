@@ -246,15 +246,38 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ---
 
 
-### 📊 [Limpieza de datos con MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto de visualizacion se anlizaron datos financieros analogamente como lo hize en power bi, pero esta vez en excel para comparar y probar las diferentes funcionalidades que ofrece cada software
+### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
+**Descripción breve:** Se limpió una tabla con informacion de empleados de una empresa que venía desde excel con varios comandos de MySql
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
-- 🔹 **Casos de uso:** Visualizacion de utilidad y margen
-- 🔹 **Principales logros:** dashboard interactivo en excel
+- 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas
+- 🔹 **Casos de uso:** Limpieza
+- 🔹 **Principales logros:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
 
 ---
+
+
+### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA
+
+
+- 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
+- 🔹 **Casos de uso:** Organizacion de informacion
+- 🔹 **Principales logros:** Disponer de informacion clara para su posterior analsis
+
+---
+
+
+
+
+
+
+### 📊 [Ejercicios de programacion Python](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este repositorio tengo diferentes ejercicios y desafios de logica de programacion con Python
+
+
+---
+
 
 
 ## 📂 Otros proyectos

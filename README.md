@@ -26,7 +26,7 @@
  <p>
 
 
-Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir conocimientos y habilidades en el area de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando asi, experiencia práctica.
+Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir y aplicar conocimientos y habilidades en el area de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando asi, experiencia práctica.
 
 
 📊 Apasionado por los datos y el conocimiento técnico.
@@ -116,7 +116,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 - 🧠 Pensamiento analítico y abtracto (por mis estudios científicos)
 - 📢 Comunicación efectiva (en reuniones con mi equipo colaborativo)
 - 🤝 Trabajo en equipo y colaboración (con mi equipo colaborativo)
-- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente optimizando tiempo de forma estratégica)
+- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente optimizando tiempo de forma estratégica al igual que con mi equipo colaborativo)
 - 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología)
 - 🧩 Resolución de problemas (desde problemas cientificos hasta enfrentarme con datos sucios en proyectos practicos)
 
@@ -134,7 +134,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 
-### 📈 [Recursos humanos](URL_DEL_REPOSITORIO)
+### 📈 [Recursos humanos Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
 
 **Posibles mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
@@ -145,7 +145,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 ---
 
-### 🤖 [Muertes en el mundo](URL_DEL_REPOSITORIO)
+### 🤖 [Muertes en el mundo Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado imposible o más complicado.
 
 **Posibles mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
@@ -155,7 +155,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Principales logros:** Hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo
 ---
 
-### 📊 [Marketing](URL_DEL_REPOSITORIO)
+### 📊 [Marketing Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
 
 **Posibles mejoras:** El modelo se optimizo mediante el umbral, pero se puede implementar otro tipo de mejora de rendimiento mas robusto, asi como profundizar en la optimizacion de los demas modelos
@@ -166,7 +166,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 ---
 
-### 📊 [Accidente cerebrovascular](URL_DEL_REPOSITORIO)
+### 📊 [Accidente cerebrovascular Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto intentamos predecir la probabilidad de accidente cerebrovascular a partir de una serie de caracteriosticas mediante una regresion logistica y otros clasificadores. Se dio enfasis en el analisis de la matriz de confusion priorizando los falsos negativos ya que es de alta prioridad en el area medica y en particular en este caso.
 
 **Posibles mejoras:** Implementar mas modleos para mejorar las metricas en conjunto y no solo los falsos negativos
@@ -178,16 +178,37 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ---
 
 
-### 📊 [Marketing](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn 
-- 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto se inetntan alcanzar tres objetivos; predecir la tasa de interes, predecir la probabilidad de cumplimiento o incumplimiento y segmentar a los clientes en funcion de ciertas caracteristicas
+
+**En curso...**
+
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresion, clasificacion
+- 🔹 **Casos de uso:** Segmentacion de clientes, tasa de interes, prediccion de cumplimiento de pagos.
+- 🔹 **Principales logros:** 
+
+---
+
+### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este reporte se hicieron visualizaciones segun los indicadores de region, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la roma de decisiones
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
+- 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
+- 🔹 **Principales logros:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
 
 ---
 
 
+### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este reporte se hicieron visualizaciones segun los indicadores de region, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la roma de decisiones
 
+
+- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
+- 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
+- 🔹 **Principales logros:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
+
+---
 
 
 

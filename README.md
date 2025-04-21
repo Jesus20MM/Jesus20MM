@@ -235,6 +235,28 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 
+### 📊 [Análisis de datos finacnieros Excel](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto de visualizacion se anlizaron datos financieros analogamente como lo hize en power bi, pero esta vez en excel para comparar y probar las diferentes funcionalidades que ofrece cada software
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
+- 🔹 **Casos de uso:** Visualizacion de utilidad y margen
+- 🔹 **Principales logros:** dashboard interactivo en excel
+
+---
+
+
+### 📊 [Limpieza de datos con MySQL](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto de visualizacion se anlizaron datos financieros analogamente como lo hize en power bi, pero esta vez en excel para comparar y probar las diferentes funcionalidades que ofrece cada software
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
+- 🔹 **Casos de uso:** Visualizacion de utilidad y margen
+- 🔹 **Principales logros:** dashboard interactivo en excel
+
+---
+
+
 ## 📂 Otros proyectos
 Puedes explorar más proyectos en mi [GitHub](https://github.com/TU_USUARIO).
 

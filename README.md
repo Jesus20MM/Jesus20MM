@@ -137,25 +137,24 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ### 📈 [Recursos humanos Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
 
-**Posibles mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios:, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn, clasificacion.
 - 🔹 **Casos de uso:** Prediccion de abandono de la empresa.
-- 🔹 **Resultados:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, conocimiento del flujo completo de un proyecto de analítica de datos con Python.  
-- 🔹 **Qué aprendí:**
-- 🔹 Futuras mejoras:**
-
+- 🔹 **Resultados:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, extraccion de informacion a partir de las visualizaciones.
+- 🔹 **Qué aprendí:** Conocer el proceso completo de un proyecto flujo de trabajo completo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extraccion de infromacion.
+- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
   
 ---
 
 ### 🤖 [Muertes en el mundo Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado imposible o más complicado.
 
-**Posibles mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Numpy, matplotlib, seaborn.
 - 🔹 **Casos de uso:** Visualizaciones de tendencia. 
-- 🔹 **Principales logros:** Hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo
+- 🔹 **Resultados:** Hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo
+- 🔹 **Qué aprendí:** Cómo organizar una tabla segun el objetivo de la visualizacion, diferentes formas de usar la logica para automatizar visualizaciones.
+- 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 
 ### 📊 [Marketing Python](URL_DEL_REPOSITORIO)
@@ -165,8 +164,10 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion
 - 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Principales logros:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
-
+- 🔹 **Resultados:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+- 🔹 **Qué aprendí:** Hacer visulizaciones mas complejas, aplicar y otimizar modelos de segmentacion asi como reduccion de la dimension para lograr visualizaciones efectivas de la informacion
+- 🔹 **Futuras mejoras:** Profundizar en los auecoders.
+  
 ---
 
 ### 📊 [Accidente cerebrovascular Python](URL_DEL_REPOSITORIO)
@@ -177,7 +178,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion
 - 🔹 **Casos de uso:** Prevencion de accidnetes cerebrovasculares
 - 🔹 **Principales logros:** Dado un modelo de clasificacion como la regresion logistica, se mejoraron los falsos negativos como prioridad, es decir, se hizo el analisis compelto de Rcall para minimizar los falsos negativos, solucion del problema de desbalance de clases
-
+- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificacion binaria, optimizacion con umbral y curva ROC, analisis profundo de la matriz de confusion y sus metricas
+- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes
 ---
 
 
@@ -189,7 +191,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresion, clasificacion
 - 🔹 **Casos de uso:** Segmentacion de clientes, tasa de interes, prediccion de cumplimiento de pagos.
 - 🔹 **Principales logros:** 
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
@@ -201,7 +204,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Python, pandas, matplotlib, follium, geopandas.
 - 🔹 **Casos de uso:** Visualizacion de indicadores en geometrias
 - 🔹 **Principales logros:** Se logró la union de tablas, ya que los indicadores tenias mas observaciones que las tablas de tipo geodataframe.
-
+- 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerias como follium, geopandas, geoseries, scipy, etc. Orgnanizacion de tablas normales y con geometrias espaciales, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python unicamente y con Qgis
+- 🔹 **Futuras mejoras:** Analisis mas robusto con multiples indicadores y o atributos para hacer mapas mas complejos.
 ---
 
 
@@ -213,7 +217,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
 - 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
 - 🔹 **Principales logros:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
@@ -224,7 +229,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
 - 🔹 **Casos de uso:** Identificar beneficios de la compañia
 - 🔹 **Principales logros:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
@@ -235,7 +241,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, basicos de lenguaje M,creacion de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimizacion de tablas, basicos de dax, bookmarks
 - 🔹 **Casos de uso:** Identificar satisfaccion del cliente mediante tickets
 - 🔹 **Principales logros:** Se logró hacer optimizacion de tablas de dimensiones, estructurar multiples visualizaciones con tabla calendario y modelo estrella
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
@@ -247,7 +254,9 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** 
 - 🔹 **Casos de uso:**
-- 🔹 **Principales logros:** 
+- 🔹 **Principales logros:**
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
@@ -259,18 +268,20 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
 - 🔹 **Casos de uso:** Visualizacion de utilidad y margen
 - 🔹 **Principales logros:** dashboard interactivo en excel
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
 ### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** Se limpió una tabla con informacion de empleados de una empresa que venía desde excel con varios comandos de MySql
+**Descripción breve:** En este proyecto sencillo se limpió una tabla con informacion de empleados de una empresa que venía desde excel con varios comandos de MySql
 
 
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas
 - 🔹 **Casos de uso:** Limpieza
 - 🔹 **Principales logros:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 
@@ -281,7 +292,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
 - 🔹 **Casos de uso:** Organizacion de informacion
 - 🔹 **Principales logros:** Disponer de informacion clara para su posterior analsis
-
+- 🔹 **Qué aprendí:**
+- 🔹 **Futuras mejoras:**
 ---
 
 

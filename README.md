@@ -177,7 +177,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion
 - 🔹 **Casos de uso:** Prevencion de accidnetes cerebrovasculares
-- 🔹 **Principales logros:** Dado un modelo de clasificacion como la regresion logistica, se mejoraron los falsos negativos como prioridad, es decir, se hizo el analisis compelto de Rcall para minimizar los falsos negativos, solucion del problema de desbalance de clases
+- 🔹 **Resultados:** Dado un modelo de clasificacion como la regresion logistica, se mejoraron los falsos negativos como prioridad, es decir, se hizo el analisis compelto de Rcall para minimizar los falsos negativos, solucion del problema de desbalance de clases
 - 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificacion binaria, optimizacion con umbral y curva ROC, analisis profundo de la matriz de confusion y sus metricas
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes
 ---
@@ -190,7 +190,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresion, clasificacion
 - 🔹 **Casos de uso:** Segmentacion de clientes, tasa de interes, prediccion de cumplimiento de pagos.
-- 🔹 **Principales logros:** 
+- 🔹 **Resultados:** 
 - 🔹 **Qué aprendí:**
 - 🔹 **Futuras mejoras:**
 ---
@@ -203,7 +203,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, pandas, matplotlib, follium, geopandas.
 - 🔹 **Casos de uso:** Visualizacion de indicadores en geometrias
-- 🔹 **Principales logros:** Se logró la union de tablas, ya que los indicadores tenias mas observaciones que las tablas de tipo geodataframe.
+- 🔹 **PResultados:** Se logró la union de tablas, ya que los indicadores tenias mas observaciones que las tablas de tipo geodataframe.
 - 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerias como follium, geopandas, geoseries, scipy, etc. Orgnanizacion de tablas normales y con geometrias espaciales, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python unicamente y con Qgis
 - 🔹 **Futuras mejoras:** Analisis mas robusto con multiples indicadores y o atributos para hacer mapas mas complejos.
 ---
@@ -216,9 +216,9 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
 - 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
-- 🔹 **Principales logros:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 **Resultados:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
+- 🔹 **Qué aprendí:** Visualizaciones basicas, diseño de dashboard
+- 🔹 **Futuras mejoras:** Ninguna en principio, ya que los datos eran muy sencillos de manejar (una tabla de dos columnas y maximo 50 filas)
 ---
 
 
@@ -228,9 +228,9 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
 - 🔹 **Casos de uso:** Identificar beneficios de la compañia
-- 🔹 **Principales logros:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 **Resultados:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
+- 🔹 **Qué aprendí:** Conceptos generales de finanzas, visualizaciones mas elaboradad, power query, navegacion por reportes, medidas basicas en DAX
+- 🔹 **Futuras mejoras:** ..........
 ---
 
 
@@ -240,21 +240,21 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, basicos de lenguaje M,creacion de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimizacion de tablas, basicos de dax, bookmarks
 - 🔹 **Casos de uso:** Identificar satisfaccion del cliente mediante tickets
-- 🔹 **Principales logros:** Se logró hacer optimizacion de tablas de dimensiones, estructurar multiples visualizaciones con tabla calendario y modelo estrella
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 **Resultados:** Se logró hacer optimizacion de tablas de dimensiones, estructurar multiples visualizaciones con tabla calendario y modelo estrella
+- 🔹 **Qué aprendí:** limpieza con power query, medidas con DAX, creacion de tablas calendario para su uso completo en visualizaciones, optimizacion de visualizaciones
+- 🔹 **Futuras mejoras:**........
 ---
 
 
 ### 📊 [](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfaccion de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnologia
+**Descripción breve:** aqui va el ultimo de power BI, el 3
 
 
 **En curso...**
 
 - 🔹 **Tecnologías y habilidades usadas:** 
 - 🔹 **Casos de uso:**
-- 🔹 **Principales logros:**
+- 🔹 **Resultados:**
 - 🔹 **Qué aprendí:**
 - 🔹 **Futuras mejoras:**
 ---
@@ -267,9 +267,9 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
 - 🔹 **Casos de uso:** Visualizacion de utilidad y margen
-- 🔹 **Principales logros:** dashboard interactivo en excel
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 **Resultados:** dashboard interactivo en excel
+- 🔹 **Qué aprendí:** Manejo de datos basicos en excel, dashboards, tablas dinamicas, formato condicional, visualizaciones sencillas
+- 🔹 **Futuras mejoras:** .........
 ---
 
 
@@ -279,9 +279,10 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas
 - 🔹 **Casos de uso:** Limpieza
-- 🔹 **Principales logros:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 **Resultados:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
+- 🔹 **Qué aprendí:** Uso de procedimiento almacenado, comparar el uso de MySQL contra pandas para limpieza de datos
+- 🔹 **Futuras mejoras:** Estructurar mejor el flujo de trabajo 
+
 ---
 
 
@@ -291,9 +292,9 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
 - 🔹 **Casos de uso:** Organizacion de informacion
-- 🔹 **Principales logros:** Disponer de informacion clara para su posterior analsis
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 *Resultados:** Disponer de informacion clara para su posterior analsis
+- 🔹 **Qué aprendí:** Extraer informacion valiosa con comandos SQL y compararlo con Pandas, uso de agrupaciones para extraer diferente informacion importante
+- 🔹 **Futuras mejoras:** Hacer mas rubusto el analisis de informacion
 ---
 
 

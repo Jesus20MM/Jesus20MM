@@ -31,7 +31,7 @@ Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir 
 
 📊 Apasionado por los datos y el conocimiento técnico.
 
-Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist, con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de machine learning, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
+Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist, con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 
 Tengo experiencia practica trabajando con:
 

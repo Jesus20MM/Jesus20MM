@@ -104,7 +104,7 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85% |
 | ![Estadística y Probabilidad](https://img.shields.io/badge/Estadística%20y%20Probabilidad-4CAF50?style=for-the-badge&logo=chart-bar&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75% |
 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70% |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | 🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜ 75% |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | 🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜ 75% |
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | 🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60% |
 | ![Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=amazonaws&logoColor=white) | 🔵🔵🔵🔵🔵⬜⬜⬜⬜⬜ 40% (B1) |
 | ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |

@@ -44,6 +44,7 @@ Tengo experiencia practica trabajando con:
 - Git y GitHub para control de versiones 
 
 Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
+Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, en los cuales me encuentro constantemente elaborando proyectos para superarme a nivel practico en cada  herramienta.
 
 🚀 Actualmente, estoy desarrollando proyectos de:
 
@@ -302,7 +303,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 
-### 📊 [Ejercicios de programacion Python](URL_DEL_REPOSITORIO)
+### 📊 [Ejercicios de programacion Python]([URL_DEL_REPOSITORIO](https://github.com/Jesus20MM/LogicaEjercicios.git))
 **Descripción breve:** En este repositorio tengo diferentes ejercicios y desafios de logica de programacion con Python
 
 

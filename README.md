@@ -9,15 +9,15 @@
 
 # Sobre mí:
 
-🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en ciencia de datos y modelado de sistemas complejos.
+🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en el area de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
 
-🚀 Apasionado por la ciencia de datos y el aprendizaje automático (machine learning) desde 2022.  
+🚀 Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
 
 🏡 Vivo en el Estado de México, México.  
 
-📚 Autodidacta constante, con formación complementaria en DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning)) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
+📚 Autodidacta constante, con formación complementaria en DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
 
-📔 Ingles B1 en Quick learning*
+📔 Ingles B1 por Quick Learning
 
 
 
@@ -26,12 +26,12 @@
  <p>
 
 
-Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir y aplicar conocimientos y habilidades en el area de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando asi, experiencia práctica.
+Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir y aplicar conocimientos y habilidades en el área de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando así, experiencia práctica.
 
 
 📊 Apasionado por los datos y el conocimiento técnico.
 
-Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist, con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
+Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 
 Tengo experiencia practica trabajando con:
 
@@ -44,13 +44,18 @@ Tengo experiencia practica trabajando con:
 - Git y GitHub para control de versiones 
 
 Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
-Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, en los cuales me encuentro constantemente elaborando proyectos para superarme a nivel practico en cada  herramienta.
+Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, en los cuales me encuentro constantemente elaborando proyectos para superarme a nivel practico en cada  herramienta. Así mismo, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado.
 
 🚀 Actualmente, estoy desarrollando proyectos de:
 
 - Predicion de tasas de interes
 - Prediccion de accidentes cerebrovasculares
+- Retención de clientes bancarios
 
+🚀 Próximos proyectos a desarrollar:
+
+- Deteccion de melanomas mediante redes de convolucion
+- Analisis de ventas mediante series de tiempo y deep learning
 
 💡 Objetivo profesional.
 
@@ -58,12 +63,11 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 🤝 Siempre abierto a aprender y colaborar.
 
-Estoy en constante búsqueda de nuevos conocimientos, experiencias, desafíos y personas con quienes compartir ideas y construir proyectos. Tanto es asi que he formado un equipo colaborativo para realizar proyectos y otras actividades relacionadas con ciencia de datos
+Estoy en constante búsqueda de nuevos conocimientos, experiencias, desafíos y personas con quienes compartir ideas y construir proyectos. Tanto es así que he formado un equipo colaborativo para realizar proyectos y otras actividades relacionadas con ciencia de datos.
 
 
 
-
-No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
+No dudes en explorar mis repositorios y hacer suguerencias o colaborar. ¡Estoy abierto a colaborar!
 
 
 </h4>
@@ -117,9 +121,9 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 - 🧠 Pensamiento analítico y abtracto (por mis estudios científicos)
 - 📢 Comunicación efectiva (en reuniones con mi equipo colaborativo)
 - 🤝 Trabajo en equipo y colaboración (con mi equipo colaborativo)
-- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente optimizando tiempo de forma estratégica al igual que con mi equipo colaborativo)
+- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidácta y eficiente optimizando tiempo de forma estratégica al igual que con mi equipo colaborativo)
 - 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología)
-- 🧩 Resolución de problemas (desde problemas cientificos hasta enfrentarme con datos sucios en proyectos practicos)
+- 🧩 Resolución de problemas (desde problemas científicos hasta enfrentarme con datos sucios, desbalanceados, etc en proyectos prácticos)
 
 
 
@@ -136,55 +140,55 @@ No dudes en explorar mis repositorios. ¡Estoy abierto a colaborar!
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 
 ### 📈 [Recursos humanos Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresion logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos negativos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
+**Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresión logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos positivos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn, clasificacion.
-- 🔹 **Casos de uso:** Prediccion de abandono de la empresa.
-- 🔹 **Resultados:** Mejora del modelo logistico con ajuste de umbral, optimización del rendimiento, extraccion de informacion a partir de las visualizaciones.
+- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Scikit-Learn, redes neuronales, Tensorflow, Estadística, visualizaciones, Pandas, Numpy, matplotlib, seaborn, clasificación.
+- 🔹 **Casos de uso:** Predicción de abandono de la empresa.
+- 🔹 **Resultados:** Mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, extraccion de informacion a partir de las visualizaciones.
 - 🔹 **Qué aprendí:** Conocer el proceso completo de un proyecto flujo de trabajo completo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extraccion de infromacion.
-- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros (regresion logistica: aplicar regularizacion L1 o L2, bosqueas aleatorios, RNA: variar los epoch, cambiar la funcion de activacion en las capas ocultas, etc)
+- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros.
   
 ---
 
 ### 🤖 [Muertes en el mundo Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado imposible o más complicado.
+**Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado más complicado.
 
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Numpy, matplotlib, seaborn.
 - 🔹 **Casos de uso:** Visualizaciones de tendencia. 
 - 🔹 **Resultados:** Hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo
-- 🔹 **Qué aprendí:** Cómo organizar una tabla segun el objetivo de la visualizacion, diferentes formas de usar la logica para automatizar visualizaciones.
+- 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, diferentes formas de usar la logica para automatizar visualizaciones.
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 
 ### 📊 [Marketing Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en funcion de las caracteristicas del cliente activo
+**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en función de las características del cliente activo
 
-**Posibles mejoras:** El modelo se optimizo mediante el umbral, pero se puede implementar otro tipo de mejora de rendimiento mas robusto, asi como profundizar en la optimizacion de los demas modelos
+**Posibles mejoras:** El modelo se optimizo mediante el umbral, pero se puede implementar otro tipo de mejora de rendimiento mas robusto, así como profundizar en la optimización de los demás modelos
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion
-- 🔹 **Casos de uso:** Segmentacion de clientes.
-- 🔹 **Resultados:** Optimización de la segmentacion de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
-- 🔹 **Qué aprendí:** Hacer visulizaciones mas complejas, aplicar y otimizar modelos de segmentacion asi como reduccion de la dimension para lograr visualizaciones efectivas de la informacion
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización
+- 🔹 **Casos de uso:** Segmentación de clientes.
+- 🔹 **Resultados:** Optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+- 🔹 **Qué aprendí:** Hacer visulizaciones mas complejas, aplicar y otimizar modelos de segmentacion, asá como reducción de la dimension para lograr visualizaciones efectivas de la información
 - 🔹 **Futuras mejoras:** Profundizar en los auecoders.
   
 ---
 
 ### 📊 [Accidente cerebrovascular Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto intentamos predecir la probabilidad de accidente cerebrovascular a partir de una serie de caracteriosticas mediante una regresion logistica y otros clasificadores. Se dio enfasis en el analisis de la matriz de confusion priorizando los falsos negativos ya que es de alta prioridad en el area medica y en particular en este caso.
+**Descripción breve:** En este proyecto intentamos predecir la probabilidad de accidente cerebrovascular a partir de una serie de características mediante una regresion logística y otros clasificadores. Se dio enfásis en el análisis de la matriz de confusión priorizando los falsos negativos ya que es de alta prioridad en el área médica y en particular en este caso.
 
-**Posibles mejoras:** Implementar mas modleos para mejorar las metricas en conjunto y no solo los falsos negativos
+**Posibles mejoras:** Implementar más modleos para mejorar las métricas en conjunto y no solo los falsos negativos
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion
-- 🔹 **Casos de uso:** Prevencion de accidnetes cerebrovasculares
-- 🔹 **Resultados:** Dado un modelo de clasificacion como la regresion logistica, se mejoraron los falsos negativos como prioridad, es decir, se hizo el analisis compelto de Rcall para minimizar los falsos negativos, solucion del problema de desbalance de clases
-- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificacion binaria, optimizacion con umbral y curva ROC, analisis profundo de la matriz de confusion y sus metricas
+- 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
+- 🔹 **Resultados:** Dado un modelo de clasificación como la regresión logística, se mejoraron los falsos negativos como prioridad, es decir, se hizo el análisis compelto de Rcall para minimizar los falsos negativos, solución del problema de desbalance de clases
+- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes
 ---
 
 
-### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)
+ ### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se inetntan alcanzar tres objetivos; predecir la tasa de interes, predecir la probabilidad de cumplimiento o incumplimiento y segmentar a los clientes en funcion de ciertas caracteristicas
 
 **En curso...**
@@ -195,7 +199,6 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Qué aprendí:**
 - 🔹 **Futuras mejoras:**
 ---
-
 
 ### 📊 [Analisis demografico en la CDMX Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto basico de visualizacion se pretende dar visualizaciones sencillas de la ciudad de mexico segun los indicadores de densidad de poblacion y poblacion segun el genero

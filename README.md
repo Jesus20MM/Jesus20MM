@@ -303,7 +303,8 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 
-### 📊 [Ejercicios de programacion Python]([URL_DEL_REPOSITORIO](https://github.com/Jesus20MM/LogicaEjercicios.git))
+### 📊 [Ejercicios de programación Python](https://github.com/Jesus20MM/LogicaEjercicios.git)
+
 **Descripción breve:** En este repositorio tengo diferentes ejercicios y desafios de logica de programacion con Python
 
 

@@ -33,7 +33,7 @@ Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir 
 
 Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 
-Tengo experiencia practica trabajando con:
+Tengo experiencia práctica trabajando con:
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -48,14 +48,14 @@ Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep l
 
 🚀 Actualmente, estoy desarrollando proyectos de:
 
-- Predicion de tasas de interes
-- Prediccion de accidentes cerebrovasculares
+- Predicción de tasas de intéres
+- Predicción de accidentes cerebrovasculares
 - Retención de clientes bancarios
 
 🚀 Próximos proyectos a desarrollar:
 
-- Deteccion de melanomas mediante redes de convolucion
-- Analisis de ventas mediante series de tiempo y deep learning
+- Detección de melanomas mediante redes de convolución
+- Analisis y predicción de ventas mediante series de tiempo y deep learning
 
 💡 Objetivo profesional.
 
@@ -189,39 +189,39 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
  ### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto se inetntan alcanzar tres objetivos; predecir la tasa de interes, predecir la probabilidad de cumplimiento o incumplimiento y segmentar a los clientes en funcion de ciertas caracteristicas
+**Descripción breve:** En este proyecto se inetntan alcanzar tres objetivos; predecir la tasa de interés, predecir la probabilidad de cumplimiento o incumplimiento y segmentar a los clientes en función de ciertas características
 
 **En curso...**
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresion, clasificacion
-- 🔹 **Casos de uso:** Segmentacion de clientes, tasa de interes, prediccion de cumplimiento de pagos.
+- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresión, clasificación
+- 🔹 **Casos de uso:** Segmentación de clientes, tasa de interés, predicción de cumplimiento de pagos.
 - 🔹 **Resultados:** 
 - 🔹 **Qué aprendí:**
 - 🔹 **Futuras mejoras:**
 ---
 
-### 📊 [Analisis demografico en la CDMX Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto basico de visualizacion se pretende dar visualizaciones sencillas de la ciudad de mexico segun los indicadores de densidad de poblacion y poblacion segun el genero
+### 📊 [Analisis demográfico en la CDMX Python](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto basico de visualización se pretende dar visualizaciones sencillas de la ciudad de méxico segun los indicadores de densidad de población y población segun el género
 
 
 
 - 🔹 **Tecnologías y habilidades usadas:** Python, pandas, matplotlib, follium, geopandas.
-- 🔹 **Casos de uso:** Visualizacion de indicadores en geometrias
+- 🔹 **Casos de uso:** Visualización de indicadores en geometrías
 - 🔹 **PResultados:** Se logró la union de tablas, ya que los indicadores tenias mas observaciones que las tablas de tipo geodataframe.
-- 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerias como follium, geopandas, geoseries, scipy, etc. Orgnanizacion de tablas normales y con geometrias espaciales, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python unicamente y con Qgis
-- 🔹 **Futuras mejoras:** Analisis mas robusto con multiples indicadores y o atributos para hacer mapas mas complejos.
+- 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerías como follium, geopandas, geoseries, scipy, etc. Orgnanizacion de tablas normales y con geometrias espaciales, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python unicamente y con Qgis
+- 🔹 **Futuras mejoras:** Analisis mas robusto con múltiples indicadores y o atributos para hacer mapas más complejos.
 ---
 
 
 
 ### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este reporte se hicieron visualizaciones segun los indicadores de region, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la roma de decisiones
+**Descripción breve:** En este reporte se hicieron visualizaciones según los indicadores de región, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la toma de decisiones
 
 
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
 - 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
-- 🔹 **Resultados:** Se logró hacer un dashboard donde se representa al completo la informacion para que la experiencia de visualizacion con el Stakeholder sea clara y dinamica.
-- 🔹 **Qué aprendí:** Visualizaciones basicas, diseño de dashboard
+- 🔹 **Resultados:** Se logró hacer un dashboard donde se representa al completo la información para que la experiencia de visualización con el Stakeholder sea clara y dinámica.
+- 🔹 **Qué aprendí:** Visualizaciones básicas, diseño de dashboard
 - 🔹 **Futuras mejoras:** Ninguna en principio, ya que los datos eran muy sencillos de manejar (una tabla de dos columnas y maximo 50 filas)
 ---
 
@@ -233,13 +233,13 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
 - 🔹 **Casos de uso:** Identificar beneficios de la compañia
 - 🔹 **Resultados:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
-- 🔹 **Qué aprendí:** Conceptos generales de finanzas, visualizaciones mas elaboradad, power query, navegacion por reportes, medidas basicas en DAX
+- 🔹 **Qué aprendí:** Conceptos generales de finanzas, visualizaciones más el dashboard, power query, navegacion por reportes, medidas básicas en DAX
 - 🔹 **Futuras mejoras:** ..........
 ---
 
 
 ### 📊 [Análisis de tickets Power BI](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfaccion de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnologia
+**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnología
 
 
 - 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, basicos de lenguaje M,creacion de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimizacion de tablas, basicos de dax, bookmarks
@@ -270,15 +270,15 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 - 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
-- 🔹 **Casos de uso:** Visualizacion de utilidad y margen
+- 🔹 **Casos de uso:** Visualización de utilidad y margen
 - 🔹 **Resultados:** dashboard interactivo en excel
-- 🔹 **Qué aprendí:** Manejo de datos basicos en excel, dashboards, tablas dinamicas, formato condicional, visualizaciones sencillas
+- 🔹 **Qué aprendí:** Manejo de datos basicos en excel, dashboards, tablas dinámicas, formato condicional, visualizaciones sencillas
 - 🔹 **Futuras mejoras:** .........
 ---
 
 
 ### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto sencillo se limpió una tabla con informacion de empleados de una empresa que venía desde excel con varios comandos de MySql
+**Descripción breve:** En este proyecto sencillo se limpió una tabla con información de empleados de una empresa que venía desde excel con varios comandos de MySql
 
 
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas

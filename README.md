@@ -119,10 +119,11 @@ No dudes en explorar mis repositorios y hacer suguerencias o colaborar. ¡Estoy 
 ## 🧠 Habilidades Blandas
 
 - 🧠 Pensamiento analítico y abtracto (por mis estudios científicos)
+- Proactividad (he contactado y formado equipos de estudio tanto para ciencia de datos como durante la universidad)
 - 📢 Comunicación efectiva (en reuniones con mi equipo colaborativo)
 - 🤝 Trabajo en equipo y colaboración (con mi equipo colaborativo)
 - ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidácta y eficiente optimizando tiempo de forma estratégica al igual que con mi equipo colaborativo)
-- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología)
+- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología, siempre aprendiendo nuevas tecnologias, pero sobre todo, profundizando en las actuales)
 - 🧩 Resolución de problemas (desde problemas científicos hasta enfrentarme con datos sucios, desbalanceados, etc en proyectos prácticos)
 
 

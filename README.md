@@ -339,5 +339,12 @@ Si quieres ver mas proyectos que he hecho, puedes cosnultar el repositorio sigui
   <a href="https://www.linkedin.com/in/jesus-munguia-scientist/" target="_blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
-
+ <!-- Outlook (Microsoft Email) -->
+  <a href="Jesus_secundaria400@outlook.com" target="_blank" style="margin-left: 20px;">
+    <img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" height="50" width="50" />
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5576340971" target="_blank" style="margin-left: 20px;">
+    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="whatsapp" height="50" width="50" />
+  </a>
 </p>

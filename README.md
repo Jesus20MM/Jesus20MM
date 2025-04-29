@@ -134,7 +134,12 @@ No dudes en explorar mis repositorios y hacer suguerencias o colaborar. ¡Estoy 
 
 
 # 📖 Formacion autodidácta y continua
-![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white)  ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+- ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Carrera de científico de machine learning
+- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Cursos de Python, Machine Learning, deep learning, SQL, Power BI, Git y Github, Proyectos guiados, estadistcia, etc.
+- ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white) Cursos de Python, inglés, programacion básica
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) Especialidad en machine lerning
+- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) Práctica de ejercicios de SQL, pandas, etc
+
 
 
 

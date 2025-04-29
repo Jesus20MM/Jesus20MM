@@ -115,7 +115,7 @@ No dudes en explorar mis repositorios y hacer suguerencias o colaborar. ¡Estoy 
 | ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
 | ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
 | ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-1E90FF?style=for-the-badge&logo=clockify&logoColor=white) | 🔵🔵🔵🔵🔵🔵🔵⬜⬜⬜ 70% |
-| ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=for-the-badge&logo=pytorch&logoColor=white) | 🟣🟣🟣🟣⬜⬜⬜⬜⬜⬜ 40% |
+| ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=for-the-badge&logo=pytorch&logoColor=white) | 🟣🟣🟣⬜⬜⬜⬜⬜⬜⬜ 30% |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
 
 

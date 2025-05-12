@@ -26,12 +26,12 @@
  <p>
 
 
-Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir y aplicar conocimientos y habilidades en el área de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando así, experiencia práctica.
+Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir y aplicar de manera exhaustiva conocimientos y habilidades en el área de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando así, experiencia práctica.
 
 
 📊 Apasionado por los datos y el conocimiento técnico.
 
-Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
+Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning y fuertes bases en matemáticas avanzadas gracias a mi formación como físico. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 
 Tengo experiencia práctica trabajando con:
 
@@ -41,9 +41,11 @@ Tengo experiencia práctica trabajando con:
 
 - Power BI para visualización interactiva de datos
 
-- Git y GitHub para control de versiones 
+- Git y GitHub para control de versiones
 
-Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo.
+- Machine learning (regresión, clasificación, conglomerados, optimización, etc)
+
+Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo y en sus respectivos repositorios.
 Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadistica y probabilidad, etc. en los cuales me encuentro constantemente elaborando proyectos para superarme a nivel practico en cada  herramienta. Así mismo, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación.
 
 🚀 Actualmente, estoy desarrollando proyectos de:
@@ -60,13 +62,7 @@ Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep l
 
 Busco formar parte de una organización donde pueda aplicar mis habilidades técnicas en el desarrollo de proyectos de ciencia de datos, contribuir al crecimiento de la empresa y generar un impacto real en la sociedad, organización y o entorno.
 
-🤝 Siempre abierto a aprender y colaborar.
 
-Estoy en constante búsqueda de nuevos conocimientos, experiencias, desafíos y personas con quienes compartir ideas y construir proyectos. Tanto es así que he formado un equipo colaborativo para realizar proyectos y otras actividades relacionadas con ciencia de datos.
-
-
-
-No dudes en explorar mis repositorios y hacer suguerencias o colaborar. ¡Estoy abierto a colaborar!
 
 
 </h4>

@@ -67,7 +67,7 @@ Próximos proyectos a desarrollar:
 
 Objetivo profesional.
 
-Busco formar parte de una organización donde pueda aplicar mis habilidades técnicas en el desarrollo de proyectos de ciencia de datos, contribuir al crecimiento de la empresa y generar un impacto real en la sociedad, organización y o entorno.
+Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio y continuar aprendiendo con proyectos retadores.
 
 
 

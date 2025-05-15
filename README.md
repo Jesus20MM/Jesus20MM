@@ -52,7 +52,6 @@ Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep l
 
 - Predicción de tasas de intéres
 - Predicción de accidentes cerebrovasculares
-- Retención de clientes bancarios
 
 🚀 Próximos proyectos a desarrollar:
 
@@ -91,7 +90,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  ![Analítica Geoespacial](https://img.shields.io/badge/Anal%C3%ADtica%20Geoespacial-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  ![Analítica Geoespacial](https://img.shields.io/badge/Anal%C3%ADtica%20Geoespacial-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Finanzas](https://img.shields.io/badge/Finanzas-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
  
@@ -107,7 +106,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70% |
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | 🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜ 75% |
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | 🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60% |
-| ![Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=amazonaws&logoColor=white) | 🔵🔵🔵🔵🔵⬜⬜⬜⬜⬜ 50% (B1) |
+| ![Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=amazonaws&logoColor=white) | Intermedio (B1 en progreso) |
 | ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
 | ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
 | ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-1E90FF?style=for-the-badge&logo=clockify&logoColor=white) | 🔵🔵🔵🔵🔵🔵🔵⬜⬜⬜ 70% |
@@ -130,10 +129,10 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 # 📖 Formacion autodidácta y continua
-- ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Carrera de científico de machine learning
+- ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Carrera de científico de machine learning y cursos de finanzas
 - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Cursos de Python, Machine Learning, deep learning, SQL, Power BI, Git y Github, Proyectos guiados, estadística, etc.
 - ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white) Cursos de Python, inglés, programacion básica
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) Especialidad en machine lerning
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) Especialidad en machine lerning y algunos cursos de finanzas
 - ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) Práctica de ejercicios de SQL, pandas, etc
 
 

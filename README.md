@@ -1,4 +1,10 @@
 # 👋Hola, bienvenido a mi perfil
+Te invito a revisar todo mi perfil, pero te dejo un resumen para que veas las secciones que contiene mi perfil.
+- Sobre mí
+- Habilidades y herramientas
+- Formación continua
+- Proyectos personales
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning...;Entusiasta+de+las+finanzas"/>
@@ -155,7 +161,9 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 
 # Proyectos Destacados
 
-Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
+Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos con diferentes tecnologías.
+
+
 
 ### 📈 [Recursos humanos Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresión logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos positivos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.

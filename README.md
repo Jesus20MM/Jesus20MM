@@ -1,4 +1,5 @@
-# 👋Hola, bienvenido al perfil de Github de Jesús.
+# 👋Hola, bienvenido a mi perfil
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning...;Entusiasta+de+las+finanzas"/>
 
@@ -7,17 +8,27 @@
   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
 </p>
 
-# Sobre mí:
 
-🎓 Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en el area de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
+# Sobre mí
 
-🚀 Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
+#### 🎓 Estudios
 
-🏡 Vivo en el Estado de México, México.  
+Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en el area de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
 
-📚 Autodidacta constante, con formación complementaria en DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
+#### 🚀 Motivación
 
-📔 Ingles B1 por Quick Learning
+Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
+
+#### 🏡 Vivo en
+
+Estado de México, México.  
+
+#### 📚 Formación autodidácta
+DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
+
+#### 📔 Lenguas
+
+Ingles B1 por Quick Learning
 
 
 
@@ -26,12 +37,9 @@
  <p>
 
 
-Me llamo Jesús, tengo 23 años y durante este tiempo me he dedicado a adquirir y aplicar de manera exhaustiva conocimientos y habilidades en el área de ciencia de datos y machine learning, formando un equipo colaborativo para realizar proyectos y otras actividades en conjunto, ganando así, experiencia práctica.
+Me llamo Jesús, tengo 23 años y he trabajado activamente estos años en adquirir y aplicar habilidades clave de ciencia de datos en proyectos personales y colaborativos, ganando así, experiencia práctica.
 
-
-📊 Apasionado por los datos y el conocimiento técnico.
-
-Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning y fuertes bases en matemáticas avanzadas gracias a mi formación como físico. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
+Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning y fuertes bases en matemáticas  gracias a mi formación como físico. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 
 Tengo experiencia práctica trabajando con:
 
@@ -46,18 +54,18 @@ Tengo experiencia práctica trabajando con:
 - Machine learning (regresión, clasificación, conglomerados, optimización, etc)
 
 Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo y en sus respectivos repositorios.
-Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadistica y probabilidad, etc. en los cuales me encuentro constantemente elaborando proyectos para superarme a nivel practico en cada  herramienta. Así mismo, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación.
+Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadistica y probabilidad, etc. Adicionalmente, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi conocimiento y proyectos.
 
-🚀 Actualmente, estoy desarrollando proyectos de:
+Actualmente, estoy desarrollando proyectos de:
 
 - Predicción de tasas de intéres
 - Predicción de accidentes cerebrovasculares
 
-🚀 Próximos proyectos a desarrollar:
+Próximos proyectos a desarrollar:
 
 - Analisis y predicción de ventas mediante series de tiempo y deep learning
 
-💡 Objetivo profesional.
+Objetivo profesional.
 
 Busco formar parte de una organización donde pueda aplicar mis habilidades técnicas en el desarrollo de proyectos de ciencia de datos, contribuir al crecimiento de la empresa y generar un impacto real en la sociedad, organización y o entorno.
 
@@ -86,7 +94,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 
-# 📖 Más habilidades y software
+# Más habilidades y software
 
 
 
@@ -97,7 +105,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 
-## 🚀 Habilidades destacadas
+## Habilidades destacadas
 
 | Tecnología o habilidad | Nivel |
 |------------------------|-------|
@@ -115,7 +123,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 
-## 🧠 Habilidades Blandas
+## Habilidades Blandas
 
 - 🧠 Pensamiento analítico y abtracto (por mis estudios científicos)
 - ❕Proactividad (he contactado y formado equipos de estudio tanto para ciencia de datos como durante la universidad)
@@ -128,7 +136,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 
-# 📖 Formacion autodidácta y continua
+# Formacion autodidácta y continua
 - ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Carrera de científico de machine learning y cursos de finanzas
 - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Cursos de Python, Machine Learning, deep learning, SQL, Power BI, Git y Github, Proyectos guiados, estadística, etc.
 - ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white) Cursos de Python, inglés, programacion básica
@@ -140,7 +148,7 @@ Busco formar parte de una organización donde pueda aplicar mis habilidades téc
 
 
 
-# 🚀 Proyectos Destacados
+# Proyectos Destacados
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos.
 

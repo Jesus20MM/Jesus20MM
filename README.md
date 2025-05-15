@@ -13,7 +13,7 @@
 
 #### 🎓 Estudios
 
-Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial con asesoramiento de un doctor en el area de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
+Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial, con asesoramiento de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
 
 #### 🚀 Motivación
 
@@ -24,7 +24,7 @@ Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.
 Estado de México, México.  
 
 #### 📚 Formación autodidácta
-DataCamp (cientifico de machine learning), Coursera (especialidad en machine learning) y Udemy (multiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el tecnológico nacional de México y un mini boopcamp por la UNAM*
+DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un mini bootcamp por la UNAM.
 
 #### 📔 Lenguas
 
@@ -37,9 +37,9 @@ Ingles B1 por Quick Learning
  <p>
 
 
-Me llamo Jesús, tengo 23 años y he trabajado activamente estos años en adquirir y aplicar habilidades clave de ciencia de datos en proyectos personales y colaborativos, ganando así, experiencia práctica.
+Me llamo Jesús, tengo 23 años y he trabajado activamente estos años en adquirir y aplicar habilidades clave de ciencia de datos en proyectos personales y colaborativos, ganando así experiencia práctica.
 
-Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning y fuertes bases en matemáticas  gracias a mi formación como físico. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
+Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning y fuertes bases en matemáticas gracias a mi formación como físico. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 
 Tengo experiencia práctica trabajando con:
 
@@ -53,8 +53,7 @@ Tengo experiencia práctica trabajando con:
 
 - Machine learning (regresión, clasificación, conglomerados, optimización, etc)
 
-Tengo multiples proyectos hechos en python, SQL, Power bi y algunos en excel. Te invito a verlos en la seccion correspondiente más abajo y en sus respectivos repositorios.
-Adicionalmente, tengo otros conocimientos teoricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadistica y probabilidad, etc. Adicionalmente, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi conocimiento y proyectos.
+Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadística y probabilidad, entre otros. Además, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos.
 
 Actualmente, estoy desarrollando proyectos de:
 
@@ -125,13 +124,19 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 
 ## Habilidades Blandas
 
-- 🧠 Pensamiento analítico y abtracto (por mis estudios científicos)
-- ❕Proactividad (he contactado y formado equipos de estudio tanto para ciencia de datos como durante la universidad)
+- 🧠 Pensamiento analítico y abstracto (por mis estudios científicos)
+
+- ❕ Proactividad (he contactado y formado equipos de estudio tanto para ciencia de datos como durante la universidad)
+
 - 📢 Comunicación efectiva (en reuniones con mi equipo colaborativo)
+
 - 🤝 Trabajo en equipo y colaboración (con mi equipo colaborativo)
-- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidácta y eficiente optimizando tiempo de forma estratégica al igual que con mi equipo colaborativo)
-- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología, siempre aprendiendo nuevas tecnologias, pero sobre todo, profundizando en las actuales)
-- 🧩 Resolución de problemas (desde problemas científicos hasta enfrentarme con datos sucios, desbalanceados, etc en proyectos prácticos)
+
+- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente, optimizando el tiempo de forma estratégica, al igual que con mi equipo colaborativo)
+
+- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología, siempre aprendiendo nuevas tecnologías, pero sobre todo, profundizando en las actuales)
+
+- 🧩 Resolución de problemas (desde problemas científicos hasta enfrentarme con datos sucios, desbalanceados, etc., en proyectos prácticos)
 
 
 

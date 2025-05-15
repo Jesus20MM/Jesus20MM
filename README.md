@@ -1,5 +1,6 @@
 # 👋Hola, bienvenido a mi perfil
-Te invito a revisar todo mi perfil, pero te dejo un resumen para que veas las secciones que contiene mi perfil.
+Te invito a revisar todo mi perfil, pero te dejo un índice de las principales secciones.
+
 - Sobre mí
 - Habilidades y herramientas
 - Formación continua
@@ -161,9 +162,19 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 
 # Proyectos Destacados
 
-Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionados con Data Science, Machine Learning y análisis de datos con diferentes tecnologías.
+Aquí encontrarás algunos de los proyectos en los que he trabajado, algunos con mayor complejidad que otros, relacionados con Data Science, Machine Learning y análisis de datos con diferentes tecnologías.
+Los proyectos están segmentados en:
+- Pyhton
+- SQL
+- Power BI
+- Excel
 
 
+
+
+
+
+## Python
 
 ### 📈 [Recursos humanos Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se pretende predecir la probabilidad de que un empleado abandone o no la compañía en función de certas características. Se aplicaron 3 modelos; regresion logística, bosques akeatiorios y una red neuronal artificial. Se dio enfásis en la regresión logística escogiendo el mejor umbral a partir de la curva ROC al analizar la tasa de falsos positivos y la tasa de verdaderos positivos. Se analizó en profundidad la matriz de confusión. Adicionalmente se hicieron visualizaciones para entender y dar insights.
@@ -213,7 +224,6 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes
 ---
 
-
  ### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se inetntan alcanzar tres objetivos; predecir la tasa de interés, predecir la probabilidad de cumplimiento o incumplimiento y segmentar a los clientes en función de ciertas características
 
@@ -239,6 +249,40 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ---
 
 
+
+## SQL
+
+### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto sencillo se limpió una tabla con información de empleados de una empresa que venía desde excel con varios comandos de MySql
+
+
+- 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas
+- 🔹 **Casos de uso:** Limpieza
+- 🔹 **Resultados:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
+- 🔹 **Qué aprendí:** Uso de procedimiento almacenado, comparar el uso de MySQL contra pandas para limpieza de datos
+- 🔹 **Futuras mejoras:** Estructurar mejor el flujo de trabajo 
+
+---
+
+
+### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA
+
+
+- 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
+- 🔹 **Casos de uso:** Organizacion de informacion
+- 🔹 *Resultados:** Disponer de informacion clara para su posterior analsis
+- 🔹 **Qué aprendí:** Extraer informacion valiosa con comandos SQL y compararlo con Pandas, uso de agrupaciones para extraer diferente informacion importante
+- 🔹 **Futuras mejoras:** Hacer mas rubusto el analisis de informacion
+---
+
+
+
+
+
+
+
+## Power BI
 
 ### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este reporte se hicieron visualizaciones según los indicadores de región, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la toma de decisiones
@@ -291,6 +335,10 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 
 
+
+
+## Excel
+
 ### 📊 [Análisis de datos finacnieros Excel](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto de visualizacion se anlizaron datos financieros analogamente como lo hize en power bi, pero esta vez en excel para comparar y probar las diferentes funcionalidades que ofrece cada software
 
@@ -303,34 +351,34 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 ---
 
 
-### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto sencillo se limpió una tabla con información de empleados de una empresa que venía desde excel con varios comandos de MySql
-
-
-- 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas
-- 🔹 **Casos de uso:** Limpieza
-- 🔹 **Resultados:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
-- 🔹 **Qué aprendí:** Uso de procedimiento almacenado, comparar el uso de MySQL contra pandas para limpieza de datos
-- 🔹 **Futuras mejoras:** Estructurar mejor el flujo de trabajo 
-
----
-
-
-### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA
-
-
-- 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
-- 🔹 **Casos de uso:** Organizacion de informacion
-- 🔹 *Resultados:** Disponer de informacion clara para su posterior analsis
-- 🔹 **Qué aprendí:** Extraer informacion valiosa con comandos SQL y compararlo con Pandas, uso de agrupaciones para extraer diferente informacion importante
-- 🔹 **Futuras mejoras:** Hacer mas rubusto el analisis de informacion
----
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 📂 Otros proyectos
 
 ### 📊 [Ejercicios de programación Python](https://github.com/Jesus20MM/LogicaEjercicios.git)
 
@@ -339,9 +387,6 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado, relacionado
 
 ---
 
-
-
-## 📂 Otros proyectos
 Si quieres ver mas proyectos que he hecho, puedes cosnultar el repositorio siguiente: [GitHub](https://github.com/TU_USUARIO).
 
 

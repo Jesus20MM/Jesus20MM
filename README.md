@@ -13,22 +13,15 @@
 
 # Sobre mí
 
-#### 🎓 Estudios
+🎓 Estudios: Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial, con asesoramiento de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
 
-Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial, con asesoramiento de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
+🚀 Motivación: Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
 
-#### 🚀 Motivación
+🏡 Vivo en Estado de México, México.  
 
-Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
+📚 Formación autodidácta: DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un mini bootcamp por la UNAM.
 
-#### 🏡 Vivo en Estado de México, México.  
-
-#### 📚 Formación autodidácta
-DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un mini bootcamp por la UNAM.
-
-#### 📔 Lenguas
-
-Ingles B1 (en progreso) por Quick Learning
+📔 Lenguas: Ingles B1 (en progreso) por Quick Learning
 
 
 
@@ -58,7 +51,6 @@ Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. T
 Actualmente, estoy desarrollando proyectos de:
 
 - Predicción de tasas de intéres
-- Predicción de accidentes cerebrovasculares
 
 Próximos proyectos a desarrollar:
 
@@ -66,7 +58,7 @@ Próximos proyectos a desarrollar:
 
 Objetivo profesional.
 
-Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio y continuar aprendiendo con proyectos retadores.
+Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio y continuar aprendiendo con proyectos desafiantes.
 
 
 

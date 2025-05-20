@@ -171,7 +171,7 @@ Los proyectos están segmentados en:
 
 ## Python
 
-### [Predicción de Rotación de Personal con Modelos de Clasificación](URL_DEL_REPOSITORIO)
+### [Predicción de Rotación de Personal con Modelos de Clasificación](URL_DEL_REPOSITORIO)✔️
 **Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal. Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
 
 
@@ -184,14 +184,16 @@ Los proyectos están segmentados en:
   
 ---
 
-### 🤖 [Muertes en el mundo Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto se parte de una tabla con informacion de tipos de muertes desde 1990 hasta 2019 y se espera estudiar la tendencia de muertes en el mundo. Por fines prácticos, se limita el estudio a estados unidos y China, dos representantes de occidente y oriente para hacer el análisis asequible. El objetivo es analizar la tendencia con los años. Lo destacable es que se hizo la limpieza y organizacion de la tabla agrupandola correctamente para lograr tal fin y también se realizó un codigo para ejecutar visualizaciones multiples iterada, cosa que con otro software hubuera resultado más complicado.
+### 🤖 [Análisis de muertes en el mundo con visualizaciones](URL_DEL_REPOSITORIO)✔️
+**Descripción breve:** Este proyecto tiene como objetivo analizar la evolución temporal de las principales causas de muerte a nivel global entre 1990 y 2019, con un enfoque particular en Estados Unidos y China como representantes de Occidente y Oriente, respectivamente.
+Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para reorganizar la tabla original en un formato adecuado para el análisis temporal. Posteriormente, se aplicó una estrategia de agrupación por país, causa y año, lo que permitió estudiar la evolución de las muertes de manera estructurada.
+Una parte destacada del trabajo fue el desarrollo de un script en Python que permite generar múltiples visualizaciones iterativas de manera automatizada, facilitando la comparación entre países y causas a lo largo del tiempo. Este enfoque habría sido considerablemente más complejo de implementar en otros entornos no programables. El análisis permitió identificar tendencias clave y diferencias notables entre ambos países en cuanto a las causas predominantes de mortalidad.
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, Pandas, Numpy, matplotlib, seaborn.
+- 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, matplotlib, seaborn.
 - 🔹 **Casos de uso:** Visualizaciones de tendencia. 
-- 🔹 **Resultados:** Hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo
-- 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, diferentes formas de usar la logica para automatizar visualizaciones.
+- 🔹 **Resultados:** Visualizaciones múltiples de las causas de muerte en China y EUA desde 1990 hasta 2019    
+- 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, formas de usar la logica para automatizar visualizaciones, hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo.
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 

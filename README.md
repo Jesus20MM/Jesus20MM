@@ -246,7 +246,7 @@ El análisis de los segmentos facilitó la justificación estratégica de accion
 - 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no
 ---
 
-### 📊 [Analisis demográfico en la CDMX](URL_DEL_REPOSITORIO)
+### 📊 [Analisis demográfico en la CDMX](URL_DEL_REPOSITORIO) ✔️
 **Descripción breve:** Este proyecto básico de análisis geoespacial tiene como objetivo visualizar indicadores demográficos clave de la Ciudad de México, específicamente la densidad de población y la población total desglosada por género.
 
 Utilizando Python y bibliotecas como GeoPandas, Matplotlib y Folium, se procesaron datos geoespaciales y demográficos para generar mapas temáticos que permiten identificar patrones de distribución poblacional a nivel territorial.
@@ -266,7 +266,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 ## SQL
 
-### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
+### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)✔️
 **Descripción breve:**Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
 
 
@@ -279,7 +279,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 ---
 
 
-### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO)
+### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO) ✔️
 **Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA utilizando exclusivamente SQL
 
 

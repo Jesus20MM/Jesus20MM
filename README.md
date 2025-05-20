@@ -231,7 +231,7 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 - 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
 - 🔹 **Resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente
 - 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas, entender que la métrica depende del contexto y del problema estudiado
-- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente.
+- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
  ### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)

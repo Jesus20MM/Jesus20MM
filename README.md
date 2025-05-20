@@ -21,16 +21,14 @@ Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualme
 
 Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
 
-#### 🏡 Vivo en
-
-Estado de México, México.  
+#### 🏡 Vivo en Estado de México, México.  
 
 #### 📚 Formación autodidácta
 DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un mini bootcamp por la UNAM.
 
 #### 📔 Lenguas
 
-Ingles B1 por Quick Learning
+Ingles B1 (en progreso) por Quick Learning
 
 
 
@@ -234,28 +232,42 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
- ### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto se inetntan alcanzar tres objetivos; predecir la tasa de interés, predecir la probabilidad de cumplimiento o incumplimiento y segmentar a los clientes en función de ciertas características
+ ### 📊 [Riesgo crediticio con regresion y segmentación](URL_DEL_REPOSITORIO) ❕ 
 
 **En curso...**
+ 
+**Descripción breve:** Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio.
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresión, clasificación
-- 🔹 **Casos de uso:** Segmentación de clientes, tasa de interés, predicción de cumplimiento de pagos.
+Se trabajó con un conjunto de datos que incluye información financiera, y de comportamiento de los clientes. Para la predicción de la tasa de interés, se aplicaron modelos de regresión.
+Paralelamente, se implementó un proceso de segmentación con técnicas de clustering, con K-Means, con el objetivo de identificar grupos de clientes con características similares. 
+
+El análisis de los segmentos facilitó la justificación estratégica de acciones diferenciadas para cada grupo, tanto en términos de campañas dirigidas como de políticas de riesgo. Las visualizaciones generadas ayudaron a interpretar patrones clave y a proponer recomendaciones orientadas a maximizar la rentabilidad y minimizar la exposición al riesgo financiero.
+
+
+
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresión, optimizacion, gradiente descendente
+- 🔹 **Casos de uso:** Segmentación de clientes, tasa de interés
 - 🔹 **Resultados:** 
 - 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
+- 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no
 ---
 
-### 📊 [Analisis demográfico en la CDMX Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto basico de visualización se pretende dar visualizaciones sencillas de la ciudad de méxico segun los indicadores de densidad de población y población segun el género
+### 📊 [Analisis demográfico en la CDMX](URL_DEL_REPOSITORIO)
+**Descripción breve:** Este proyecto básico de análisis geoespacial tiene como objetivo visualizar indicadores demográficos clave de la Ciudad de México, específicamente la densidad de población y la población total desglosada por género.
+
+Utilizando Python y bibliotecas como GeoPandas, Matplotlib y Folium, se procesaron datos geoespaciales y demográficos para generar mapas temáticos que permiten identificar patrones de distribución poblacional a nivel territorial.
+
+El enfoque estuvo centrado en producir visualizaciones claras y accesibles que sirvan como herramienta exploratoria para entender mejor la estructura demográfica de la ciudad. Estas visualizaciones permiten detectar zonas con alta densidad o concentración específica de hombres o mujeres, lo que puede resultar útil para la toma de decisiones en ámbitos como urbanismo, salud pública o planificación de servicios.
 
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, pandas, matplotlib, follium, geopandas.
-- 🔹 **Casos de uso:** Visualización de indicadores en geometrías
-- 🔹 **PResultados:** Se logró la union de tablas, ya que los indicadores tenias mas observaciones que las tablas de tipo geodataframe.
-- 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerías como follium, geopandas, geoseries, scipy, etc. Orgnanizacion de tablas normales y con geometrias espaciales, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python unicamente y con Qgis
-- 🔹 **Futuras mejoras:** Analisis mas robusto con múltiples indicadores y o atributos para hacer mapas más complejos.
+- 🔹 **Tecnologías y habilidades usadas:** pandas, matplotlib, follium, geopandas, MySQL
+- 🔹 **Casos de uso:** Visualización espacial en la Ciudad de México
+- 🔹 **Resultados:** de 3 a 4 visualizaciones sencillas con mapas corópleticos con matplotlib y follium
+- 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerías como follium, geopandas, scipy, etc, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python y con Qgis, organizar las tablas correspondientes para hacer a la unión o merge de tablas y lograr la visualizacion
+- 🔹 **Futuras mejoras:** Analisis más robusto con múltiples indicadores 
 ---
 
 

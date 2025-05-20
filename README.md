@@ -197,16 +197,19 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 
-### 📊 [Marketing Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende segmentar a los clientes para lanzar una campaña de marketing de tarejtas de crédito en función de las características del cliente activo
+### 📊 [Planeación de campaña de marketing con Segmentación](URL_DEL_REPOSITORIO)
+**Descripción breve:** Este proyecto guiado tiene como objetivo segmentar a los clientes activos de una institución financiera con el fin de diseñar campañas de marketing más efectivas para la promoción de tarjetas de crédito.
+Utilizando Python como herramienta principal, se trabajó con un conjunto de datos que incluye diversas características. El proceso comenzó con una limpieza y exploración de datos para detectar valores atípicos, datos faltantes y variables irrelevantes. Posteriormente, se aplicaron técnicas de reducción de dimensionalidad y escalamiento para preparar los datos para la segmentación.
+La segmentación se realizó mediante algoritmos de clustering, con especial énfasis en K-Means. Se evaluó el número óptimo de segmentos utilizando el método del codo analizando la inercia.
+Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitiendo diseñar campañas específicas para cada grupo con mayor probabilidad de éxito. Además, se generaron visualizaciones para facilitar la interpretación de los segmentos.
 
-**Posibles mejoras:** El modelo se optimizo mediante el umbral, pero se puede implementar otro tipo de mejora de rendimiento mas robusto, así como profundizar en la optimización de los demás modelos
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización
+
+- 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización, k-means
 - 🔹 **Casos de uso:** Segmentación de clientes.
-- 🔹 **Resultados:** Optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
-- 🔹 **Qué aprendí:** Hacer visulizaciones mas complejas, aplicar y otimizar modelos de segmentacion, asá como reducción de la dimension para lograr visualizaciones efectivas de la información
-- 🔹 **Futuras mejoras:** Profundizar en los auecoders.
+- 🔹 **Resultados:** Visualización de la segmentación para la toma estratégica de decisiones, modelo óptimo en cuanto al numero de segmentadores.
+- 🔹 **Qué aprendí:** Hacer visulizaciones mas complejas, aplicar y otimizar modelos de segmentacion, optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
+- 🔹 **Futuras mejoras:** Profundizar en los auecoders o modelos útiles para el objetivo, hacer un análisis de resultados mas exhaustivo.
   
 ---
 

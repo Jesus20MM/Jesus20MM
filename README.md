@@ -172,7 +172,9 @@ Los proyectos están segmentados en:
 ## Python
 
 ### [Predicción de Rotación de Personal con Modelos de Clasificación](URL_DEL_REPOSITORIO)✔️
-**Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal. Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
+**Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal.
+
+Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
 
 
 
@@ -186,7 +188,9 @@ Los proyectos están segmentados en:
 
 ### 🤖 [Análisis de muertes en el mundo con visualizaciones](URL_DEL_REPOSITORIO)✔️
 **Descripción breve:** Este proyecto tiene como objetivo analizar la evolución temporal de las principales causas de muerte a nivel global entre 1990 y 2019, con un enfoque particular en Estados Unidos y China como representantes de Occidente y Oriente, respectivamente.
+
 Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para reorganizar la tabla original en un formato adecuado para el análisis temporal. Posteriormente, se aplicó una estrategia de agrupación por país, causa y año, lo que permitió estudiar la evolución de las muertes de manera estructurada.
+
 Una parte destacada del trabajo fue el desarrollo de un script en Python que permite generar múltiples visualizaciones iterativas de manera automatizada, facilitando la comparación entre países y causas a lo largo del tiempo. Este enfoque habría sido considerablemente más complejo de implementar en otros entornos no programables. El análisis permitió identificar tendencias clave y diferencias notables entre ambos países en cuanto a las causas predominantes de mortalidad.
 
 
@@ -197,9 +201,10 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 
-### 📊 [Planeación de campaña de marketing con Segmentación](URL_DEL_REPOSITORIO)
+### 📊 [Planeación de campaña de marketing con Segmentación](URL_DEL_REPOSITORIO)✔️
 **Descripción breve:** Este proyecto guiado tiene como objetivo segmentar a los clientes activos de una institución financiera con el fin de diseñar campañas de marketing más efectivas para la promoción de tarjetas de crédito.
 Utilizando Python como herramienta principal, se trabajó con un conjunto de datos que incluye diversas características. El proceso comenzó con una limpieza y exploración de datos para detectar valores atípicos, datos faltantes y variables irrelevantes. Posteriormente, se aplicaron técnicas de reducción de dimensionalidad y escalamiento para preparar los datos para la segmentación.
+
 La segmentación se realizó mediante algoritmos de clustering, con especial énfasis en K-Means. Se evaluó el número óptimo de segmentos utilizando el método del codo analizando la inercia.
 Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitiendo diseñar campañas específicas para cada grupo con mayor probabilidad de éxito. Además, se generaron visualizaciones para facilitar la interpretación de los segmentos.
 
@@ -213,16 +218,20 @@ Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitien
   
 ---
 
-### 📊 [Accidente cerebrovascular Python](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto intentamos predecir la probabilidad de accidente cerebrovascular a partir de una serie de características mediante una regresion logística y otros clasificadores. Se dio enfásis en el análisis de la matriz de confusión priorizando los falsos negativos ya que es de alta prioridad en el área médica y en particular en este caso.
+### 📊 [Detección de acidentes cerebrovasculares con clasificación](URL_DEL_REPOSITORIO)✔️
+**Descripción breve:** Este proyecto tiene como objetivo predecir la probabilidad de que un paciente sufra un accidente cerebrovascular (ACV) a partir de una serie de características clínicas, utilizando algoritmos de clasificación El modelo principal implementado fue una regresión logística, complementada con otros clasificadores como bosques aleatorios y máquinas de soporte vectorial para comparar el desempeño.
 
-**Posibles mejoras:** Implementar más modleos para mejorar las métricas en conjunto y no solo los falsos negativos
+Dado el contexto médico del problema, se dio especial énfasis al análisis de la matriz de confusión, priorizando la minimización de los falsos negativos, es decir, los casos en los que el modelo no detecta un riesgo de ACV cuando realmente existe. Esta consideración es crítica en el ámbito de la salud, donde una predicción errónea puede tener consecuencias graves.
 
-- 🔹 **Tecnologías y habilidades usadas:** Python, scikit lern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion
+El proyecto incluyó también el ajuste del umbral de clasificación para optimizar la sensibilidad del modelo, así como la evaluación de métricas como el recall, la precisión y la curva ROC. Los resultados permitieron obtener un modelo útil para apoyar decisiones médicas preventivas.
+
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Scikitlern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion, regresión logística
 - 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
-- 🔹 **Resultados:** Dado un modelo de clasificación como la regresión logística, se mejoraron los falsos negativos como prioridad, es decir, se hizo el análisis compelto de Rcall para minimizar los falsos negativos, solución del problema de desbalance de clases
-- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas
-- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes
+- 🔹 **Resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente
+- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas, entender que la métrica depende del contexto y del problema estudiado
+- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente.
 ---
 
  ### 📊 [Crédito bancario Python](URL_DEL_REPOSITORIO)

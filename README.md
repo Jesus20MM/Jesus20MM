@@ -267,27 +267,27 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 ## SQL
 
 ### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto sencillo se limpió una tabla con información de empleados de una empresa que venía desde excel con varios comandos de MySql
+**Descripción breve:**Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
 
 
-- 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, trabajar con textos y fechas
-- 🔹 **Casos de uso:** Limpieza
+- 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, textos y fechas
+- 🔹 **Casos de uso:** Limpieza básica
 - 🔹 **Resultados:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
 - 🔹 **Qué aprendí:** Uso de procedimiento almacenado, comparar el uso de MySQL contra pandas para limpieza de datos
-- 🔹 **Futuras mejoras:** Estructurar mejor el flujo de trabajo 
+- 🔹 **Futuras mejoras:** Estructurar mejor el flujo de trabajo de la limpieza en MySQL
 
 ---
 
 
 ### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA
+**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA utilizando exclusivamente SQL
 
 
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
 - 🔹 **Casos de uso:** Organizacion de informacion
 - 🔹 *Resultados:** Disponer de informacion clara para su posterior analsis
-- 🔹 **Qué aprendí:** Extraer informacion valiosa con comandos SQL y compararlo con Pandas, uso de agrupaciones para extraer diferente informacion importante
-- 🔹 **Futuras mejoras:** Hacer mas rubusto el analisis de informacion
+- 🔹 **Qué aprendí:** Usar diferentes comandos de MySQL
+- 🔹 **Futuras mejoras:** Hacer más profesional el proyecto incluyendo otro software de visualización.
 ---
 
 

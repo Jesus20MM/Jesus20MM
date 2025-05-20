@@ -1,10 +1,5 @@
 # 👋Hola, bienvenido a mi perfil
-Te invito a revisar todo mi perfil, pero te dejo un índice de las principales secciones.
 
-- Sobre mí
-- Habilidades y herramientas
-- Formación continua
-- Proyectos personales
 
 
 
@@ -177,15 +172,15 @@ Los proyectos están segmentados en:
 ## Python
 
 ### [Predicción de Rotación de Personal con Modelos de Clasificación](URL_DEL_REPOSITORIO)
-**Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal. Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a partir de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
+**Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal. Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
 
 
 
 - 🔹 **Tecnologías y habilidades usadas:** Pandas, Scikit-Learn, redes neuronales y tensorflow, visualizaciones, Numpy, matplotlib, seaborn, clasificación.
 - 🔹 **Casos de uso:** Predicción de abandono de la empresa.
-- 🔹 **Resultados:** Modelo entrenado para la predicción, mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, entendimiento del abandono de empleados.
-- 🔹 **Qué aprendí:** Conocer la mayor parte del  flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extraccion de infromacion.
-- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar XGBoost.
+- 🔹 **Resultados:** Modelo entrenado para la predicción, mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, entendimiento del abandono de empleados para la prevención y toma de decisiones.
+- 🔹 **Qué aprendí:** Conocer la mayor parte del flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extraccion de infromacion, modelado predictivo y rendimiento de clasificadores.
+- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar el descenso del gradiente con la funcion de costes simplificada para la regresión, implementar XGBoost.
   
 ---
 

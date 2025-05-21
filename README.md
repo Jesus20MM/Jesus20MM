@@ -313,7 +313,7 @@ El análisis facilitó la identificación de patrones relevantes, como regiones 
 ---
 
 
-### 📊 [Análisis de datos financieros Power BI](URL_DEL_REPOSITORIO)✔️
+### 📊 [Análisis de datos financieros](URL_DEL_REPOSITORIO)✔️
 **Descripción breve:** En este proyecto se desarrollaron dos reportes financieros: uno enfocado en los ingresos y otro en la utilidad de la empresa, con el objetivo de proporcionar una visión clara y precisa del estado financiero de la organización.
 La separación en dos reportes permitió abordar de forma específica y detallada cada uno de los indicadores clave, asegurando que la información solicitada por la empresa fuera completa, comprensible y alineada con sus necesidades de análisis.
 
@@ -326,71 +326,35 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 ---
 
 
-### 📊 [Análisis de tickets Power BI](URL_DEL_REPOSITORIO)
+### 📊 [Análisis de satisfacción de clientes](URL_DEL_REPOSITORIO)✔️
 **Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnología
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, basicos de lenguaje M,creacion de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimizacion de tablas, basicos de dax, bookmarks
-- 🔹 **Casos de uso:** Identificar satisfaccion del cliente mediante tickets
-- 🔹 **Resultados:** Se logró hacer optimizacion de tablas de dimensiones, estructurar multiples visualizaciones con tabla calendario y modelo estrella
+- 🔹 **Tecnologías y habilidades usadas:** Básicos de lenguaje M, creación de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimización de tablas, bookmarks
+- 🔹 **Casos de uso:** Identificar satisfacción del cliente 
+- 🔹 **Resultados:** Se logró hacer optimización de tablas de dimensiones, estructurar multiples visualizaciones con tabla calendario y modelo estrella
 - 🔹 **Qué aprendí:** limpieza con power query, medidas con DAX, creacion de tablas calendario para su uso completo en visualizaciones, optimizacion de visualizaciones
-- 🔹 **Futuras mejoras:**........
+
 ---
 
 
-### 📊 [](URL_DEL_REPOSITORIO)
-**Descripción breve:** aqui va el ultimo de power BI, el 3
-
-
-**En curso...**
-
-- 🔹 **Tecnologías y habilidades usadas:** 
-- 🔹 **Casos de uso:**
-- 🔹 **Resultados:**
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:**
----
+### 📊 [Reporte de producción](URL_DEL_REPOSITORIO)
+**Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
+Se utilizaron herramientas de análisis y visualización para identificar patrones, retrasos y comportamientos recurrentes en los procesos logísticos. El análisis permitió detectar posibles cuellos de botella, diferencias de desempeño entre vendedores o distribuidores, y tendencias temporales en la entrega o devolución de productos.
 
 
 
 
-
-## Excel
-
-### 📊 [Análisis de datos finacnieros Excel](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto de visualizacion se anlizaron datos financieros analogamente como lo hize en power bi, pero esta vez en excel para comparar y probar las diferentes funcionalidades que ofrece cada software
-
-
-- 🔹 **Tecnologías y habilidades usadas:** Excel, tablas dinamicas, dachboard, formato condicional.
-- 🔹 **Casos de uso:** Visualización de utilidad y margen
-- 🔹 **Resultados:** dashboard interactivo en excel
-- 🔹 **Qué aprendí:** Manejo de datos basicos en excel, dashboards, tablas dinámicas, formato condicional, visualizaciones sencillas
-- 🔹 **Futuras mejoras:** .........
+- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, limpieza de datos con power query
+- 🔹 **Casos de uso:** Visualizar eficiencia de procesos logísticos
+- 🔹 **Resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados
 ---
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Excel (URL_DEL_REPOSITORIO)
 
 
 

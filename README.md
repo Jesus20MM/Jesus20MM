@@ -161,7 +161,7 @@ Los proyectos están segmentados en:
 
 ## Python
 
-### [Predicción de Rotación de Personal con Modelos de Clasificación](URL_DEL_REPOSITORIO)✔️
+### [Predicción de Rotación de Personal con Modelos de Clasificación](URL_DEL_REPOSITORIO)
 **Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal.
 
 Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
@@ -176,7 +176,7 @@ Para resolver el problema, se aplicaron tres modelos de machine learning: regres
   
 ---
 
-### 🤖 [Análisis de muertes en el mundo con visualizaciones](URL_DEL_REPOSITORIO)✔️
+### [Análisis de muertes en el mundo con visualizaciones](URL_DEL_REPOSITORIO)
 **Descripción breve:** Este proyecto tiene como objetivo analizar la evolución temporal de las principales causas de muerte a nivel global entre 1990 y 2019, con un enfoque particular en Estados Unidos y China como representantes de Occidente y Oriente, respectivamente.
 
 Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para reorganizar la tabla original en un formato adecuado para el análisis temporal. Posteriormente, se aplicó una estrategia de agrupación por país, causa y año, lo que permitió estudiar la evolución de las muertes de manera estructurada.
@@ -191,7 +191,7 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 
-### 📊 [Planeación de campaña de marketing con Segmentación](URL_DEL_REPOSITORIO)✔️
+### [Planeación de campaña de marketing con Segmentación](URL_DEL_REPOSITORIO)
 **Descripción breve:** Este proyecto guiado tiene como objetivo segmentar a los clientes activos de una institución financiera con el fin de diseñar campañas de marketing más efectivas para la promoción de tarjetas de crédito.
 Utilizando Python como herramienta principal, se trabajó con un conjunto de datos que incluye diversas características. El proceso comenzó con una limpieza y exploración de datos para detectar valores atípicos, datos faltantes y variables irrelevantes. Posteriormente, se aplicaron técnicas de reducción de dimensionalidad y escalamiento para preparar los datos para la segmentación.
 
@@ -208,7 +208,7 @@ Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitien
   
 ---
 
-### 📊 [Detección de acidentes cerebrovasculares con clasificación](URL_DEL_REPOSITORIO)✔️
+### [Detección de acidentes cerebrovasculares con clasificación](URL_DEL_REPOSITORIO)
 **Descripción breve:** Este proyecto tiene como objetivo predecir la probabilidad de que un paciente sufra un accidente cerebrovascular (ACV) a partir de una serie de características clínicas, utilizando algoritmos de clasificación El modelo principal implementado fue una regresión logística, complementada con otros clasificadores como bosques aleatorios y máquinas de soporte vectorial para comparar el desempeño.
 
 Dado el contexto médico del problema, se dio especial énfasis al análisis de la matriz de confusión, priorizando la minimización de los falsos negativos, es decir, los casos en los que el modelo no detecta un riesgo de ACV cuando realmente existe. Esta consideración es crítica en el ámbito de la salud, donde una predicción errónea puede tener consecuencias graves.
@@ -224,7 +224,7 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
- ### 📊 [Riesgo crediticio con regresion y segmentación](URL_DEL_REPOSITORIO) ❕ 
+ ### [Riesgo crediticio con regresion y segmentación](URL_DEL_REPOSITORIO) 
 
 **En curso...**
  
@@ -246,7 +246,7 @@ El análisis de los segmentos facilitó la justificación estratégica de accion
 - 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no
 ---
 
-### 📊 [Analisis demográfico en la CDMX](URL_DEL_REPOSITORIO) ✔️
+### [Analisis demográfico en la CDMX](URL_DEL_REPOSITORIO) 
 **Descripción breve:** Este proyecto básico de análisis geoespacial tiene como objetivo visualizar indicadores demográficos clave de la Ciudad de México, específicamente la densidad de población y la población total desglosada por género.
 
 Utilizando Python y bibliotecas como GeoPandas, Matplotlib y Folium, se procesaron datos geoespaciales y demográficos para generar mapas temáticos que permiten identificar patrones de distribución poblacional a nivel territorial.
@@ -266,7 +266,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 ## SQL
 
-### 📊 [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)✔️
+### [Limpieza de datos MySQL](URL_DEL_REPOSITORIO)
 **Descripción breve:**Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
 
 
@@ -279,7 +279,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 ---
 
 
-### 📊 [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO) ✔️
+### [Proyeccion de trabajos por IA MySQL](URL_DEL_REPOSITORIO) 
 **Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA utilizando exclusivamente SQL
 
 
@@ -298,7 +298,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 ## Power BI
 
-### 📊 [Análisis de ventas de una empresa de electrónica](URL_DEL_REPOSITORIO)✔️
+### [Análisis de ventas de una empresa de electrónica](URL_DEL_REPOSITORIO)
 **Descripción breve:** El objetivo de este reporte es extraer información clave del negocio mediante visualizaciones interactivas basadas en indicadores como región, vendedor y tipo de producto, con el fin de identificar tendencias comerciales y apoyar la toma de decisiones estratégicas.
 Utilizando Power BI, se construyó un dashboard que permite explorar el rendimiento de diferentes sucursales, analizar el desempeño individual de los vendedores y evaluar la demanda por categoría de producto.
 
@@ -313,7 +313,7 @@ El análisis facilitó la identificación de patrones relevantes, como regiones 
 ---
 
 
-### 📊 [Análisis de datos financieros](URL_DEL_REPOSITORIO)✔️
+### [Análisis de datos financieros](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto se desarrollaron dos reportes financieros: uno enfocado en los ingresos y otro en la utilidad de la empresa, con el objetivo de proporcionar una visión clara y precisa del estado financiero de la organización.
 La separación en dos reportes permitió abordar de forma específica y detallada cada uno de los indicadores clave, asegurando que la información solicitada por la empresa fuera completa, comprensible y alineada con sus necesidades de análisis.
 
@@ -326,7 +326,7 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 ---
 
 
-### 📊 [Análisis de satisfacción de clientes](URL_DEL_REPOSITORIO)✔️
+### [Análisis de satisfacción de clientes](URL_DEL_REPOSITORIO)
 **Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferntes departamentos de una empresa de tecnología
 
 
@@ -338,7 +338,7 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 ---
 
 
-### 📊 [Reporte de producción](URL_DEL_REPOSITORIO)
+### [Reporte de producción](URL_DEL_REPOSITORIO)
 **Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
 Se utilizaron herramientas de análisis y visualización para identificar patrones, retrasos y comportamientos recurrentes en los procesos logísticos. El análisis permitió detectar posibles cuellos de botella, diferencias de desempeño entre vendedores o distribuidores, y tendencias temporales en la entrega o devolución de productos.
 
@@ -356,15 +356,14 @@ Se utilizaron herramientas de análisis y visualización para identificar patron
 
 ## Excel (URL_DEL_REPOSITORIO)
 
+En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos son equivalentes a los hechos en power BI (mismos datos), pero se intentaron replicar en Excel para ver las similitudes entre los dos softwares
 
 
 
 
-## 📂 Otros proyectos
+### [Ejercicios de programación Python](https://github.com/Jesus20MM/LogicaEjercicios.git)
 
-### 📊 [Ejercicios de programación Python](https://github.com/Jesus20MM/LogicaEjercicios.git)
-
-**Descripción breve:** En este repositorio tengo diferentes ejercicios y desafios de logica de programacion con Python
+**Descripción breve:** En este repositorio tengo diferentes ejercicios y desafios de lógica de programacion con Python
 
 
 ---

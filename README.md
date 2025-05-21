@@ -298,27 +298,31 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 ## Power BI
 
-### 📊 [Análisis de ventas Power BI](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este reporte se hicieron visualizaciones según los indicadores de región, vendedor y tipo de producto para identificar las tenendecias dle negocio y posteriormente tener un esquema claro para la toma de decisiones
+### 📊 [Análisis de ventas de una empresa de electrónica](URL_DEL_REPOSITORIO)✔️
+**Descripción breve:** El objetivo de este reporte es extraer información clave del negocio mediante visualizaciones interactivas basadas en indicadores como región, vendedor y tipo de producto, con el fin de identificar tendencias comerciales y apoyar la toma de decisiones estratégicas.
+Utilizando Power BI, se construyó un dashboard que permite explorar el rendimiento de diferentes sucursales, analizar el desempeño individual de los vendedores y evaluar la demanda por categoría de producto.
+
+El análisis facilitó la identificación de patrones relevantes, como regiones con mayores ventas, productos con mejor rotación y vendedores con mayor rendimiento. Estos hallazgos ofrecen un esquema claro para orientar decisiones relacionadas con la asignación de recursos, gestión de empleados, expansión o cierre de sucursales, y estrategias comerciales por línea de producto.
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query
+- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, visualizaciones, dashboard, power query
 - 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
 - 🔹 **Resultados:** Se logró hacer un dashboard donde se representa al completo la información para que la experiencia de visualización con el Stakeholder sea clara y dinámica.
-- 🔹 **Qué aprendí:** Visualizaciones básicas, diseño de dashboard
+- 🔹 **Qué aprendí:** Visualizaciones básicas, diseño de dashboard, formatos, matrices.
 - 🔹 **Futuras mejoras:** Ninguna en principio, ya que los datos eran muy sencillos de manejar (una tabla de dos columnas y maximo 50 filas)
 ---
 
 
-### 📊 [Análisis de datos financieros Power BI](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este reporte se hicieron dos reportes; uno de ingresos y otro de utilidad.
+### 📊 [Análisis de datos financieros Power BI](URL_DEL_REPOSITORIO)✔️
+**Descripción breve:** En este proyecto se desarrollaron dos reportes financieros: uno enfocado en los ingresos y otro en la utilidad de la empresa, con el objetivo de proporcionar una visión clara y precisa del estado financiero de la organización.
+La separación en dos reportes permitió abordar de forma específica y detallada cada uno de los indicadores clave, asegurando que la información solicitada por la empresa fuera completa, comprensible y alineada con sus necesidades de análisis.
 
 
-- 🔹 **Tecnologías y habilidades usadas:** Power BI, inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales,relaciones basicas entre tablas, creacion de matrices y graficos combinados, botones de navegacion, optimizacion de reporte (con tarjeta nueva)
+- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales, relaciones básicas entre tablas, creación de matrices y gráficos combinados, botones de navegación (interacción entre reportes), optimización de reporte (con tarjeta nueva).
 - 🔹 **Casos de uso:** Identificar beneficios de la compañia
 - 🔹 **Resultados:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
-- 🔹 **Qué aprendí:** Conceptos generales de finanzas, visualizaciones más el dashboard, power query, navegacion por reportes, medidas básicas en DAX
-- 🔹 **Futuras mejoras:** ..........
+- 🔹 **Qué aprendí:** Conceptos generales de finanzas, uso de medidas con DAX.
+
 ---
 
 

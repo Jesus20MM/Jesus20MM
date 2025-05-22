@@ -141,7 +141,7 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 - ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) Práctica de ejercicios de SQL, pandas, etc
 
 
-
+Mis certifiaciones las puedes encontrar en: 
 
 
 

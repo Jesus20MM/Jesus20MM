@@ -19,7 +19,7 @@
 
 🏡 Vivo en Estado de México, México.  
 
-📚 Formación autodidácta: DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un taller de 120 horas por la UNAM.
+📚 Formación autodidácta: DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un taller de 120 horas de inteligencia artificial por la UNAM.
 
 📔 Lenguas: Ingles B1 (en progreso) por Quick Learning
 

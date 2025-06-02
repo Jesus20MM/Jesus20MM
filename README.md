@@ -368,7 +368,7 @@ En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos 
 
 ---
 
-Si quieres ver mas proyectos que he hecho, puedes cosnultar el repositorio siguiente: [GitHub](https://github.com/TU_USUARIO).
+
 
 
 

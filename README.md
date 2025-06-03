@@ -171,7 +171,7 @@ Para resolver el problema, se aplicaron tres modelos de machine learning: regres
 - 🔹 **Tecnologías y habilidades usadas:** Pandas, Scikit-Learn, redes neuronales y tensorflow, visualizaciones, Numpy, matplotlib, seaborn, clasificación.
 - 🔹 **Casos de uso:** Predicción de abandono de la empresa.
 - 🔹 **Resultados:** Modelo entrenado para la predicción, mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, entendimiento del abandono de empleados para la prevención y toma de decisiones.
-- 🔹 **Qué aprendí:** Conocer la mayor parte del flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extraccion de infromacion, modelado predictivo y rendimiento de clasificadores.
+- 🔹 **Qué aprendí:** Conocer la mayor parte del flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extracción de infromación, modelado predictivo y rendimiento de clasificadores.
 - 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar el descenso del gradiente con la funcion de costes simplificada para la regresión, implementar XGBoost.
   
 ---
@@ -203,8 +203,8 @@ Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitien
 - 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización, k-means
 - 🔹 **Casos de uso:** Segmentación de clientes.
 - 🔹 **Resultados:** Visualización de la segmentación para la toma estratégica de decisiones, modelo óptimo en cuanto al numero de segmentadores.
-- 🔹 **Qué aprendí:** Hacer visulizaciones mas complejas, aplicar y otimizar modelos de segmentacion, optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimension eficazmente con PCA para obtener visualizaciones alcanzables.
-- 🔹 **Futuras mejoras:** Profundizar en los auecoders o modelos útiles para el objetivo, hacer un análisis de resultados mas exhaustivo.
+- 🔹 **Qué aprendí:** Hacer visulizaciones más complejas, aplicar y otimizar modelos de segmentación, optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimensión eficazmente con PCA para obtener visualizaciones alcanzables.
+- 🔹 **Futuras mejoras:** Profundizar en los auecoders o modelos útiles para el objetivo, hacer un análisis de resultados más exhaustivo.
   
 ---
 

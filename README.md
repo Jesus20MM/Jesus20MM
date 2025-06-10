@@ -224,9 +224,9 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
- ### [Riesgo crediticio con regresion y segmentación](URL_DEL_REPOSITORIO) 
+ ### [Riesgo crediticio con regresion](URL_DEL_REPOSITORIO) 
 
-**En curso...**
+
  
 **Descripción breve:** Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio.
 
@@ -241,10 +241,15 @@ El análisis de los segmentos facilitó la justificación estratégica de accion
 
 - 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresión, optimizacion, gradiente descendente
 - 🔹 **Casos de uso:** Segmentación de clientes, tasa de interés
-- 🔹 **Resultados:** 
-- 🔹 **Qué aprendí:**
-- 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no
+- 🔹 **Resultados:** Obtuvimos la probabilidad de cumplimiento de cada cliente y modelamos 3 esenarios; son SVR, árboles de decisión y regresión lineal múltiple
+- 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no, implementar descenso de gradiente y comparar el rendimiento de la regresión lineal múltiple frende al descenso del gradiente, hacer más robustos los modelos y sus evaluaciones, implementar validación cruzada, etc.
+
+
+Actualmente sigo trabajando en este proyecto implementando clusterización para entender los diferentes perfiles de los clientes y estudiar su potencialidad ante un crédito
 ---
+
+
+
 
 ### [Analisis demográfico en la CDMX](URL_DEL_REPOSITORIO) 
 **Descripción breve:** Este proyecto básico de análisis geoespacial tiene como objetivo visualizar indicadores demográficos clave de la Ciudad de México, específicamente la densidad de población y la población total desglosada por género.

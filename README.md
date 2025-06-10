@@ -245,9 +245,9 @@ El análisis de los segmentos facilitó la justificación estratégica de accion
 - 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no, implementar descenso de gradiente y comparar el rendimiento de la regresión lineal múltiple frende al descenso del gradiente, hacer más robustos los modelos y sus evaluaciones, implementar validación cruzada, etc.
 
 
-Actualmente sigo trabajando en este proyecto implementando clusterización para entender los diferentes perfiles de los clientes y estudiar su potencialidad ante un crédito
----
 
+---
+Actualmente sigo trabajando en este proyecto implementando clusterización para entender los diferentes perfiles de los clientes y estudiar su potencialidad ante un crédito
 
 
 

@@ -272,7 +272,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 ## SQL
 
 ### [Limpieza de datos](URL_DEL_REPOSITORIO)
-**Descripción breve:**Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
+**Descripción breve:** Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
 
 
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, textos y fechas
@@ -356,7 +356,7 @@ Se utilizaron herramientas de análisis y visualización para identificar patron
 
 
 
-## Excel (URL_DEL_REPOSITORIO)
+## Excel (URL_DEL_REPOSITORIO](https://github.com/Jesus20MM/Proyectos-excel.git)
 
 En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos son equivalentes a los hechos en power BI (mismos datos), pero se intentaron replicar en Excel para ver las similitudes entre los dos softwares
 

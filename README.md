@@ -191,7 +191,7 @@ Una parte destacada del trabajo fue el desarrollo de un script en Python que per
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
 
-### [Planeación de campaña de marketing con Segmentación]([URL_DEL_REPOSITORIO](https://github.com/Jesus20MM/Proyecto-Marketing.git))
+### [Planeación de campaña de marketing con Segmentación](https://github.com/Jesus20MM/Proyecto-Marketing.git)
 **Descripción breve:** Este proyecto guiado tiene como objetivo segmentar a los clientes activos de una institución financiera con el fin de diseñar campañas de marketing más efectivas para la promoción de tarjetas de crédito.
 Utilizando Python como herramienta principal, se trabajó con un conjunto de datos que incluye diversas características. El proceso comenzó con una limpieza y exploración de datos para detectar valores atípicos, datos faltantes y variables irrelevantes. Posteriormente, se aplicaron técnicas de reducción de dimensionalidad y escalamiento para preparar los datos para la segmentación.
 

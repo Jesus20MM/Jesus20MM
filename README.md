@@ -208,7 +208,7 @@ Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitien
   
 ---
 
-### [Detección de accidentes cerebrovasculares con clasificación](URL_DEL_REPOSITORIO)
+### [Detección de accidentes cerebrovasculares con clasificación](https://github.com/Jesus20MM/Proyecto-accidentes-cerebrovasculares.git)
 **Descripción breve:** Este proyecto tiene como objetivo predecir la probabilidad de que un paciente sufra un accidente cerebrovascular (ACV) a partir de una serie de características clínicas, utilizando algoritmos de clasificación El modelo principal implementado fue una regresión logística, complementada con otros clasificadores como bosques aleatorios y máquinas de soporte vectorial para comparar el desempeño.
 
 Dado el contexto médico del problema, se dio especial énfasis al análisis de la matriz de confusión, priorizando la minimización de los falsos negativos, es decir, los casos en los que el modelo no detecta un riesgo de ACV cuando realmente existe. Esta consideración es crítica en el ámbito de la salud, donde una predicción errónea puede tener consecuencias graves.

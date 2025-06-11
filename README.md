@@ -224,7 +224,7 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
- ### [Riesgo crediticio con regresion](URL_DEL_REPOSITORIO) 
+ ### [Riesgo crediticio con regresion](https://github.com/Jesus20MM/Proyecto-riesgo-crediticio.git) 
 
 
  

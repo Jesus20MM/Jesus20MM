@@ -176,7 +176,7 @@ Para resolver el problema, se aplicaron tres modelos de machine learning: regres
   
 ---
 
-### [Análisis de muertes en el mundo con visualizaciones](URL_DEL_REPOSITORIO)
+### [Análisis de muertes en el mundo con visualizaciones](https://github.com/Jesus20MM/Muertes-en-el-mundo.git)
 **Descripción breve:** Este proyecto tiene como objetivo analizar la evolución temporal de las principales causas de muerte a nivel global entre 1990 y 2019, con un enfoque particular en Estados Unidos y China como representantes de Occidente y Oriente, respectivamente.
 
 Para lograrlo, se utilizó Python como herramienta principal, realizando un exhaustivo proceso de limpieza y transformación de datos para reorganizar la tabla original en un formato adecuado para el análisis temporal. Posteriormente, se aplicó una estrategia de agrupación por país, causa y año, lo que permitió estudiar la evolución de las muertes de manera estructurada.

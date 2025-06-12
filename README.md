@@ -328,17 +328,6 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 ---
 
 
-### [Análisis de satisfacción de clientes](URL_DEL_REPOSITORIO)
-**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferentes departamentos de una empresa de tecnología
-
-
-- 🔹 **Tecnologías y habilidades usadas:** Básicos de lenguaje M, creación de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimización de tablas, bookmarks
-- 🔹 **Casos de uso:** Identificar satisfacción del cliente 
-- 🔹 **Resultados:** Se logró hacer optimización de tablas de dimensiones, estructurar múltiples visualizaciones con tabla calendario y modelo estrella
-- 🔹 **Qué aprendí:** limpieza con power query, medidas con DAX, creación de tablas calendario para su uso completo en visualizaciones, optimización de visualizaciones
-
----
-
 
 ### [Reporte de producción](URL_DEL_REPOSITORIO)
 **Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
@@ -351,6 +340,21 @@ Se utilizaron herramientas de análisis y visualización para identificar patron
 - 🔹 **Casos de uso:** Visualizar eficiencia de procesos logísticos
 - 🔹 **Resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados
 ---
+
+
+### [Análisis de satisfacción de clientes](URL_DEL_REPOSITORIO)
+**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferentes departamentos de una empresa de tecnología
+
+
+- 🔹 **Tecnologías y habilidades usadas:** Básicos de lenguaje M, creación de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimización de tablas, bookmarks
+- 🔹 **Casos de uso:** Identificar satisfacción del cliente 
+- 🔹 **Resultados:** Se logró hacer optimización de tablas de dimensiones, estructurar múltiples visualizaciones con tabla calendario y modelo estrella
+- 🔹 **Qué aprendí:** limpieza con power query, medidas con DAX, creación de tablas calendario para su uso completo en visualizaciones, optimización de visualizaciones
+
+---
+
+
+
 
 
 

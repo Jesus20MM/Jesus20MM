@@ -271,7 +271,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 ## SQL
 
-### [Limpieza de datos](URL_DEL_REPOSITORIO)
+### [Limpieza de datos](https://github.com/Jesus20MM/Proyecto-limpieza.git)
 **Descripción breve:** Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
 
 
@@ -284,7 +284,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 ---
 
 
-### [Proyeccion de trabajos por IA](URL_DEL_REPOSITORIO) 
+### [Proyeccion de trabajos por IA](https://github.com/Jesus20MM/Proyecto-trabajos-por-IA.git)
 **Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA utilizando exclusivamente SQL
 
 
@@ -300,7 +300,7 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 ## Power BI
 
-### [Análisis de ventas de una empresa de electrónica](URL_DEL_REPOSITORIO)
+### [Análisis de ventas de una empresa de electrónica](https://github.com/Jesus20MM/Proyecto-ventas-electronica.git)
 **Descripción breve:** El objetivo de este reporte es extraer información clave del negocio mediante visualizaciones interactivas basadas en indicadores como región, vendedor y tipo de producto, con el fin de identificar tendencias comerciales y apoyar la toma de decisiones estratégicas.
 Utilizando Power BI, se construyó un dashboard que permite explorar el rendimiento de diferentes sucursales, analizar el desempeño individual de los vendedores y evaluar la demanda por categoría de producto.
 
@@ -315,7 +315,7 @@ El análisis facilitó la identificación de patrones relevantes, como regiones 
 ---
 
 
-### [Análisis de datos financieros](URL_DEL_REPOSITORIO)
+### [Análisis de datos financieros](https://github.com/Jesus20MM/Proyecto-an-lisis-financiero.git)
 **Descripción breve:** En este proyecto se desarrollaron dos reportes financieros: uno enfocado en los ingresos y otro en la utilidad de la empresa, con el objetivo de proporcionar una visión clara y precisa del estado financiero de la organización.
 La separación en dos reportes permitió abordar de forma específica y detallada cada uno de los indicadores clave, asegurando que la información solicitada por la empresa fuera completa, comprensible y alineada con sus necesidades de análisis.
 
@@ -329,7 +329,7 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 
 
 
-### [Reporte de producción](URL_DEL_REPOSITORIO)
+### [Reporte de producción](https://github.com/Jesus20MM/Proyecto-reporte-producci-n.git)
 **Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
 Se utilizaron herramientas de análisis y visualización para identificar patrones, retrasos y comportamientos recurrentes en los procesos logísticos. El análisis permitió detectar posibles cuellos de botella, diferencias de desempeño entre vendedores o distribuidores, y tendencias temporales en la entrega o devolución de productos.
 
@@ -342,7 +342,7 @@ Se utilizaron herramientas de análisis y visualización para identificar patron
 ---
 
 
-### [Análisis de satisfacción de clientes](URL_DEL_REPOSITORIO)
+### [Análisis de satisfacción de clientes](https://github.com/Jesus20MM/Proyecto-satisfaccion-de-clientes.git)
 **Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferentes departamentos de una empresa de tecnología
 
 

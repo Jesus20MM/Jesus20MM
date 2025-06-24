@@ -158,6 +158,15 @@ Los proyectos están segmentados en:
 
 ## Python
 
+### [Predicción de vendas con Deep Learning]()
+**Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal.
+
+Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
+
+
+
+
+
 ### [Predicción de Rotación de Personal con Modelos de Clasificación](https://github.com/Jesus20MM/Proyecto-Recursos-Humanos.git)
 **Descripción breve:** Este proyecto aborda el problema de por qué los empleados abandonan la empresa. El objetivo es predecir la probabilidad de que un empleado renuncie, utilizando Python como herramienta principal.
 

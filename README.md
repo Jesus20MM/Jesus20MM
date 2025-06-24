@@ -50,11 +50,8 @@ Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. T
 
 Actualmente, estoy desarrollando proyectos de:
 
-- Predicción de tasas de intéres
-
-Próximos proyectos a desarrollar:
-
 - Analisis y predicción de ventas mediante series de tiempo y deep learning
+
 
 Objetivo profesional.
 

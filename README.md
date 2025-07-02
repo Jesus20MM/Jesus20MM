@@ -163,13 +163,7 @@ Los proyectos están segmentados en:
 
 En curso ........
  
-**Descripción breve:** Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio.
-
-Se trabajó con un conjunto de datos que incluye información financiera, y de comportamiento de los clientes. Para la predicción de la tasa de interés, se aplicaron modelos de regresión.
-Paralelamente, se implementó un proceso de segmentación con técnicas de clustering, con K-Means, con el objetivo de identificar grupos de clientes con características similares. 
-
-El análisis de los segmentos facilitó la justificación estratégica de acciones diferenciadas para cada grupo, tanto en términos de campañas dirigidas como de políticas de riesgo. Las visualizaciones generadas ayudaron a interpretar patrones clave y a proponer recomendaciones orientadas a maximizar la rentabilidad y minimizar la exposición al riesgo financiero.
-
+**Descripción breve:** 
 
 
 
@@ -252,21 +246,18 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 ---
 
 
-### [Predicción de vendas con Deep Learning](https://github.com/Jesus20MM/Proyecto-ventas.git)
+### [Predicción de ventas con Deep Learning](https://github.com/Jesus20MM/Proyecto-ventas.git)
 
-**Descripción breve:** Este proyecto tiene como objetivo predecir la probabilidad de que un paciente sufra un accidente cerebrovascular (ACV) a partir de una serie de características clínicas, utilizando algoritmos de clasificación El modelo principal implementado fue una regresión logística, complementada con otros clasificadores como bosques aleatorios y máquinas de soporte vectorial para comparar el desempeño.
+**Descripción breve:** En este proyecto guiado, el objetivo es predecir las ventas de varias tiendas a partir de una base de datos compuesta por dos tablas relacionadas: una contiene el historial de ventas y la otra, información adicional sobre las tiendas. Para ello, se emplea el análisis de series de tiempo, con el fin de capturar patrones temporales y generar predicciones en función del tiempo.
 
-Dado el contexto médico del problema, se dio especial énfasis al análisis de la matriz de confusión, priorizando la minimización de los falsos negativos, es decir, los casos en los que el modelo no detecta un riesgo de ACV cuando realmente existe. Esta consideración es crítica en el ámbito de la salud, donde una predicción errónea puede tener consecuencias graves.
-
-El proyecto incluyó también el ajuste del umbral de clasificación para optimizar la sensibilidad del modelo, así como la evaluación de métricas como el recall, la precisión y la curva ROC. Los resultados permitieron obtener un modelo útil para apoyar decisiones médicas preventivas.
+Como herramienta principal se utiliza Facebook Prophet, un modelo aditivo diseñado específicamente para trabajar con series temporales. Además del análisis exploratorio de datos y la extracción de información relevante, se realiza ingeniería de características para descomponer la variable temporal en componentes como año, mes y día, lo cual permite un análisis más detallado y una mejor modelación del comportamiento de las ventas a lo largo del tiempo.
 
 
+- 🔹 **Tecnologías y habilidades usadas:** Facebook Prophet, series de tiempo, pandas
+- 🔹 **Casos de uso:** Predecir ventas de tiendas
+- 🔹 **Resultados:** Predic de ventas para un número selecto de tiendas a partir del uso de series de tiempo con Facebook Prophet
+- 🔹 **Qué aprendí:** Uso básico de facebook prophet, extracción de información con series de tiempo
 
-- 🔹 **Tecnologías y habilidades usadas:** Scikitlern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion, regresión logística
-- 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
-- 🔹 **Resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente
-- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas, entender que la métrica depende del contexto y del problema estudiado
-- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
 

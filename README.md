@@ -158,8 +158,31 @@ Los proyectos están segmentados en:
 
 ## Python
 
-### [Predicción de vendas con Deep Learning](https://github.com/Jesus20MM/Proyecto-ventas.git)
-Actualmente me encuentro trabajando en este proyecto
+
+ ### [Riesgo crediticio]() 
+
+En curso ........
+ 
+**Descripción breve:** Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio.
+
+Se trabajó con un conjunto de datos que incluye información financiera, y de comportamiento de los clientes. Para la predicción de la tasa de interés, se aplicaron modelos de regresión.
+Paralelamente, se implementó un proceso de segmentación con técnicas de clustering, con K-Means, con el objetivo de identificar grupos de clientes con características similares. 
+
+El análisis de los segmentos facilitó la justificación estratégica de acciones diferenciadas para cada grupo, tanto en términos de campañas dirigidas como de políticas de riesgo. Las visualizaciones generadas ayudaron a interpretar patrones clave y a proponer recomendaciones orientadas a maximizar la rentabilidad y minimizar la exposición al riesgo financiero.
+
+
+
+
+
+- 🔹 **Tecnologías y habilidades usadas:** 
+- 🔹 **Casos de uso:** 
+- 🔹 **Resultados:** 
+- 🔹 **Futuras mejoras:** 
+
+
+
+---
+
 
 
 
@@ -228,31 +251,23 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
 
- ### [Riesgo crediticio con regresion](https://github.com/Jesus20MM/Proyecto-riesgo-crediticio.git) 
 
+### [Predicción de vendas con Deep Learning](https://github.com/Jesus20MM/Proyecto-ventas.git)
 
- 
-**Descripción breve:** Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio.
+**Descripción breve:** Este proyecto tiene como objetivo predecir la probabilidad de que un paciente sufra un accidente cerebrovascular (ACV) a partir de una serie de características clínicas, utilizando algoritmos de clasificación El modelo principal implementado fue una regresión logística, complementada con otros clasificadores como bosques aleatorios y máquinas de soporte vectorial para comparar el desempeño.
 
-Se trabajó con un conjunto de datos que incluye información financiera, y de comportamiento de los clientes. Para la predicción de la tasa de interés, se aplicaron modelos de regresión.
-Paralelamente, se implementó un proceso de segmentación con técnicas de clustering, con K-Means, con el objetivo de identificar grupos de clientes con características similares. 
+Dado el contexto médico del problema, se dio especial énfasis al análisis de la matriz de confusión, priorizando la minimización de los falsos negativos, es decir, los casos en los que el modelo no detecta un riesgo de ACV cuando realmente existe. Esta consideración es crítica en el ámbito de la salud, donde una predicción errónea puede tener consecuencias graves.
 
-El análisis de los segmentos facilitó la justificación estratégica de acciones diferenciadas para cada grupo, tanto en términos de campañas dirigidas como de políticas de riesgo. Las visualizaciones generadas ayudaron a interpretar patrones clave y a proponer recomendaciones orientadas a maximizar la rentabilidad y minimizar la exposición al riesgo financiero.
-
+El proyecto incluyó también el ajuste del umbral de clasificación para optimizar la sensibilidad del modelo, así como la evaluación de métricas como el recall, la precisión y la curva ROC. Los resultados permitieron obtener un modelo útil para apoyar decisiones médicas preventivas.
 
 
 
-
-- 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterizacion, regresión, optimizacion, gradiente descendente
-- 🔹 **Casos de uso:** Segmentación de clientes, tasa de interés
-- 🔹 **Resultados:** Obtuvimos la probabilidad de cumplimiento de cada cliente y modelamos 3 esenarios; son SVR, árboles de decisión y regresión lineal múltiple
-- 🔹 **Futuras mejoras:** Se puede estudiar más los datos y definir un objetivo que sea clasificar a los clientes en función de si van a pagar o no, implementar descenso de gradiente y comparar el rendimiento de la regresión lineal múltiple frende al descenso del gradiente, hacer más robustos los modelos y sus evaluaciones, implementar validación cruzada, etc.
-
-
-
+- 🔹 **Tecnologías y habilidades usadas:** Scikitlern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion, regresión logística
+- 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
+- 🔹 **Resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente
+- 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas, entender que la métrica depende del contexto y del problema estudiado
+- 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
-Actualmente sigo trabajando en este proyecto implementando clusterización para entender los diferentes perfiles de los clientes y estudiar su potencialidad ante un crédito
-
 
 
 ### [Analisis demográfico en la CDMX](https://github.com/Jesus20MM/Proyecto-demografico.git)

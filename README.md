@@ -160,20 +160,22 @@ Los proyectos están segmentados en:
 ## Python
 
 
- ### [Riesgo crediticio]() 
+ ### [Riesgo crediticio](https://github.com/Jesus20MM/Riesgo-crediticio.git) 
 
-En curso ........
- 
-**Descripción breve:** 
+En curso...
+
+Descripción breve: Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio con morosos.
+
+Se trabajó con un conjunto de datos que incluye información financiera, y de comportamiento de los clientes. Para la predicción de la tasa de interés, se aplicaron modelos de regresión.
+Paralelamente, se implementó un proceso de clasificación evaluando múltiples modelos utilizando técnicas y evaluación de métricas
 
 
 
-
-- 🔹 **Tecnologías y habilidades usadas:** 
-- 🔹 **Casos de uso:** 
-- 🔹 **Resultados:** 
-- 🔹 **Futuras mejoras:** 
-
+- 🔹 Tecnologías y habilidades usadas: Scikit lern, Pandas, Numpy, matplotlib, seaborn, cauterización, regresión, optimización, gradiente descendente, clasificación.
+- 🔹 Casos de uso: Segmentación de clientes, tasa de interés, riesgo crediticio
+- 🔹 Resultados: en curso: De momentó de ha encontrado el mejor clasificacdor logístico para la detección de morosos
+- 🔹 Qué aprendí: validación cruzada, gradiente descendente, optimización
+- 🔹 Futuras mejoras: ....
 
 
 ---

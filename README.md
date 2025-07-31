@@ -382,6 +382,8 @@ En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos 
 
 ### [Ejercicios de programación Python](https://github.com/Jesus20MM/LogicaEjercicios.git)
 
+### [Ejercicios de Python para ciencia de datos](https://github.com/Jesus20MM/python-para-ciencia-de-datos.git)
+
 ### [Ejercicios de Machine Learning y Deep learning](https://github.com/Jesus20MM/Machine-Leaarning-techniques.git)
 
 **Descripción breve:** En estos repositorios tengo diferentes ejercicios y desafios de técnicas de machine learning, deep learning y lógica con Python.

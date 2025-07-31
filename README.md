@@ -30,7 +30,7 @@
  <p>
 
 
-Me llamo Jesús, tengo 23 años y he trabajado activamente estos años en adquirir y aplicar habilidades clave de ciencia de datos en proyectos personales y colaborativos, ganando así experiencia práctica.
+Me llamo Jesús, tengo 23 años y he trabajado activamente estos años en adquirir y aplicar habilidades clave de ciencia de datos en proyectos personales y colaborativos, ganando así, experiencia práctica.
 
 Me encanta analizar datos para extraer información estratégica y generar valor. Me identifico con el perfil de Data Scientist Jr., con un fuerte interés en machine learning y fuertes bases en matemáticas gracias a mi formación como físico. Aspiro a desarrollarme como científico de datos, combinando mi formación científica con soluciones tecnológicas que generen impacto real en el negocio o entorno del proyecto.
 

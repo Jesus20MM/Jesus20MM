@@ -319,12 +319,10 @@ Utilizando Power BI, se construyó un dashboard que permite explorar el rendimie
 
 El análisis facilitó la identificación de patrones relevantes, como regiones con mayores ventas, productos con mejor rotación y vendedores con mayor rendimiento. Estos hallazgos ofrecen un esquema claro para orientar decisiones relacionadas con la asignación de recursos, gestión de empleados, expansión o cierre de sucursales, y estrategias comerciales por línea de producto.
 
-
+- 🔹 **Logros y resultados:** Se logró hacer un dashboard donde se representa al completo la información para que la experiencia de visualización con el Stakeholder sea clara y dinámica, se logró entender la eficiencia de cada vendedor segmentado por tipo de producto y región
 - 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, visualizaciones, dashboard, power query
 - 🔹 **Casos de uso:** Identificar tendencias de ventas para la toma de decisiones
-- 🔹 **Resultados:** Se logró hacer un dashboard donde se representa al completo la información para que la experiencia de visualización con el Stakeholder sea clara y dinámica.
 - 🔹 **Qué aprendí:** Visualizaciones básicas, diseño de dashboard, formatos, matrices.
-- 🔹 **Futuras mejoras:** Ninguna en principio, ya que los datos eran muy sencillos de manejar (una tabla de dos columnas y maximo 50 filas)
 ---
 
 
@@ -332,10 +330,9 @@ El análisis facilitó la identificación de patrones relevantes, como regiones 
 **Descripción breve:** En este proyecto se desarrollaron dos reportes financieros: uno enfocado en los ingresos y otro en la utilidad de la empresa, con el objetivo de proporcionar una visión clara y precisa del estado financiero de la organización.
 La separación en dos reportes permitió abordar de forma específica y detallada cada uno de los indicadores clave, asegurando que la información solicitada por la empresa fuera completa, comprensible y alineada con sus necesidades de análisis.
 
-
+- 🔹 **Logros y resultados:** Se logró tener de dashboard de dos paneles completamente interactivo, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas, entender el contexto de la empresa con indicadorees clave para la toma de decisiones
 - 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, visualizaciones, dashboard, power query, filtros de top N, medidas basicas con DAX, formatos condicionales, relaciones básicas entre tablas, creación de matrices y gráficos combinados, botones de navegación (interacción entre reportes), optimización de reporte (con tarjeta nueva).
 - 🔹 **Casos de uso:** Identificar beneficios de la compañia
-- 🔹 **Resultados:** Se logró tener un par de dashboard completamente interactivos, resolver dificultades con relaciones entre tablas para obtener visualizaciones correctas
 - 🔹 **Qué aprendí:** Conceptos generales de finanzas, uso de medidas con DAX.
 
 ---
@@ -346,9 +343,9 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 **Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
 Se utilizaron herramientas de análisis y visualización para identificar patrones, retrasos y comportamientos recurrentes en los procesos logísticos. El análisis permitió detectar posibles cuellos de botella, diferencias de desempeño entre vendedores o distribuidores, y tendencias temporales en la entrega o devolución de productos.
 
-- 🔹 **Logros y resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados
-- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, limpieza de datos con power query
-- 🔹 **Casos de uso:** Visualizar eficiencia de procesos logísticos
+- 🔹 **Logros y resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados, segmentando la región, nivel de prioridad, nombre del gerente, etc.
+- 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, limpieza de datos con power query, segmentadores, diseño de dashboard, storytelling.
+- 🔹 **Casos de uso:** Visualización de eficiencia de procesos logísticos
 
 
 ---

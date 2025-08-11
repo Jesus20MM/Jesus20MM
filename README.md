@@ -170,12 +170,11 @@ Se trabajó con un conjunto de datos que incluye información financiera, y de c
 Paralelamente, se implementó un proceso de clasificación evaluando múltiples modelos utilizando técnicas y evaluación de métricas
 
 
-
-- 🔹 Tecnologías y habilidades usadas: Scikit lern, Pandas, Numpy, matplotlib, seaborn, cauterización, regresión, optimización, gradiente descendente, clasificación.
+- 🔹 Logros y resultados: De momentó, se ha encontrado el mejor clasificacdor logístico para la detección de morosos lo que permite tener en cuenta a qué usuarios acceder el crédito y a cuáles no.
+- 🔹 Tecnologías y habilidades usadas: Scikit lern, Pandas, Numpy, matplotlib, seaborn, cluterización, regresión, optimización, gradiente descendente, clasificación.
 - 🔹 Casos de uso: Segmentación de clientes, tasa de interés, riesgo crediticio
-- 🔹 Resultados: en curso: De momentó de ha encontrado el mejor clasificacdor logístico para la detección de morosos
-- 🔹 Qué aprendí: validación cruzada, gradiente descendente, optimización
-- 🔹 Futuras mejoras: ....
+- 🔹 Qué aprendí: validación cruzada, gradiente descendente, optimización, modelado de regresión, clasificación y segmentación.
+- 🔹 Futuras mejoras: ....... en curso
 
 
 ---
@@ -191,10 +190,9 @@ Paralelamente, se implementó un proceso de clasificación evaluando múltiples 
 Para resolver el problema, se aplicaron tres modelos de machine learning: regresión logística, bosques aleatorios y una red neuronal artificial. Se dio especial énfasis a la regresión logística, seleccionando el mejor umbral a analizando de la curva ROC mediante el análisis de la tasa de verdaderos positivos y falsos positivos para cada umbral. También se realizó un análisis detallado de la matriz de confusión. Además, se generaron visualizaciones complementarias para extraer información adicional de los datos.
 
 
-
+- 🔹 **Logros y resultados:** Modelo entrenado para la predicción, mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, entendimiento del abandono de empleados para la prevención y toma de decisiones.
 - 🔹 **Tecnologías y habilidades usadas:** Pandas, Scikit-Learn, redes neuronales y tensorflow, visualizaciones, Numpy, matplotlib, seaborn, clasificación.
 - 🔹 **Casos de uso:** Predicción de abandono de la empresa.
-- 🔹 **Resultados:** Modelo entrenado para la predicción, mejora del modelo logístico con ajuste de umbral, optimización del rendimiento, entendimiento del abandono de empleados para la prevención y toma de decisiones.
 - 🔹 **Qué aprendí:** Conocer la mayor parte del flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extracción de infromación, modelado predictivo y rendimiento de clasificadores.
 - 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar el descenso del gradiente con la funcion de costes simplificada para la regresión, implementar XGBoost.
   
@@ -207,10 +205,9 @@ Para lograrlo, se utilizó Python como herramienta principal, realizando un exha
 
 Una parte destacada del trabajo fue el desarrollo de un script en Python que permite generar múltiples visualizaciones iterativas de manera automatizada, facilitando la comparación entre países y causas a lo largo del tiempo. Este enfoque habría sido considerablemente más complejo de implementar en otros entornos no programables. El análisis permitió identificar tendencias clave y diferencias notables entre ambos países en cuanto a las causas predominantes de mortalidad.
 
-
+- 🔹 **Logros y resultados:** Visualizaciones múltiples de las causas de muerte en China y EUA desde 1990 hasta 2019. Esto permite entender el cambio en el comportamiento de las enfermedades en el tiempo y tomar decisiones gubernamentales, por ejemplo, hacia qué área de prevención invertir óptimamente 
 - 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, matplotlib, seaborn.
 - 🔹 **Casos de uso:** Visualizaciones de tendencia. 
-- 🔹 **Resultados:** Visualizaciones múltiples de las causas de muerte en China y EUA desde 1990 hasta 2019    
 - 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, formas de usar la logica para automatizar visualizaciones, hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo.
 - 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
 ---
@@ -223,10 +220,9 @@ La segmentación se realizó mediante algoritmos de clustering, con especial én
 Como resultado, se obtuvieron perfiles de clientes bien diferenciados, permitiendo diseñar campañas específicas para cada grupo con mayor probabilidad de éxito. Además, se generaron visualizaciones para facilitar la interpretación de los segmentos.
 
 
-
+- 🔹 **Logros y resultados:** Visualización de la segmentación para la toma estratégica de decisiones, modelo óptimo en cuanto al numero de segmentadores.
 - 🔹 **Tecnologías y habilidades usadas:** Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización, k-means
 - 🔹 **Casos de uso:** Segmentación de clientes.
-- 🔹 **Resultados:** Visualización de la segmentación para la toma estratégica de decisiones, modelo óptimo en cuanto al numero de segmentadores.
 - 🔹 **Qué aprendí:** Hacer visulizaciones más complejas, aplicar y otimizar modelos de segmentación, optimización de la segmentación de k medias con el metodo del codo y análisis de inercia, reducir la dimensión eficazmente con PCA para obtener visualizaciones alcanzables.
 - 🔹 **Futuras mejoras:** Profundizar en los auecoders o modelos útiles para el objetivo, hacer un análisis de resultados más exhaustivo.
   
@@ -240,10 +236,9 @@ Dado el contexto médico del problema, se dio especial énfasis al análisis de 
 El proyecto incluyó también el ajuste del umbral de clasificación para optimizar la sensibilidad del modelo, así como la evaluación de métricas como el recall, la precisión y la curva ROC. Los resultados permitieron obtener un modelo útil para apoyar decisiones médicas preventivas.
 
 
-
+- 🔹 **Logros y resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente, se analizó eficientemente la matriz de confusión y sus métricas.
 - 🔹 **Tecnologías y habilidades usadas:** Scikitlern, Pandas, Numpy, matplotlib, seaborn, curva ROC, clasificacion, regresión logística
 - 🔹 **Casos de uso:** Prevención de accidentes cerebrovasculares
-- 🔹 **Resultados:** Modelo que, en principio, es adecuado para dar un daignóstico preeliminar de la probailidad de sufrir un accidente
 - 🔹 **Qué aprendí:** Manejo de desbalance de clases en clasificación binaria, optimización con umbral y curva ROC, análisis profundo de la matriz de confusión y sus métricas, entender que la métrica depende del contexto y del problema estudiado
 - 🔹 **Futuras mejoras:** Implementar y optimizar en profundidad los modelos restantes, analizar los coeficientes de la regresión logística e implementar descenso de gradiente, organizar mejor el flujo de trabajo e incluso impelmentar pipelines.
 ---
@@ -256,9 +251,9 @@ El proyecto incluyó también el ajuste del umbral de clasificación para optimi
 Como herramienta principal se utiliza Facebook Prophet, un modelo aditivo diseñado específicamente para trabajar con series temporales. Además del análisis exploratorio de datos y la extracción de información relevante, se realiza ingeniería de características para descomponer la variable temporal en componentes como año, mes y día, lo cual permite un análisis más detallado y una mejor modelación del comportamiento de las ventas a lo largo del tiempo.
 
 
+- 🔹 **Logros y resultados:** Predicción de ventas para un número selecto de tiendas a partir del uso de series de tiempo con Facebook Prophet
 - 🔹 **Tecnologías y habilidades usadas:** Facebook Prophet, series de tiempo, pandas
 - 🔹 **Casos de uso:** Predecir ventas de tiendas
-- 🔹 **Resultados:** Predic de ventas para un número selecto de tiendas a partir del uso de series de tiempo con Facebook Prophet
 - 🔹 **Qué aprendí:** Uso básico de facebook prophet, extracción de información con series de tiempo
 
 ---
@@ -272,10 +267,9 @@ Utilizando Python y bibliotecas como GeoPandas, Matplotlib y Folium, se procesar
 El enfoque estuvo centrado en producir visualizaciones claras y accesibles que sirvan como herramienta exploratoria para entender mejor la estructura demográfica de la ciudad. Estas visualizaciones permiten detectar zonas con alta densidad o concentración específica de hombres o mujeres, lo que puede resultar útil para la toma de decisiones en ámbitos como urbanismo, salud pública o planificación de servicios.
 
 
-
+- 🔹 **Logros y resultados:** Visualizaciones  con mapas corópleticos con matplotlib y follium. Una vez entendiendo la densidad de población se puede tomar desde decisiones gubernamentales hasta decisiones estratégicas para un producto determinado en alguna empresa. Por ejemplo, en dónde lanzar una tienda de motocicletas, tomando en cuenta que el género masculino usa más el producto
 - 🔹 **Tecnologías y habilidades usadas:** pandas, matplotlib, follium, geopandas, MySQL
 - 🔹 **Casos de uso:** Visualización espacial en la Ciudad de México
-- 🔹 **Resultados:** de 3 a 4 visualizaciones sencillas con mapas corópleticos con matplotlib y follium
 - 🔹 **Qué aprendí:** Manejo de datos geoespaciales con diferentes librerías como follium, geopandas, scipy, etc, sistemas de referencia georreferenciados, comparar cómo se trabajo con Python y con Qgis, organizar las tablas correspondientes para hacer a la unión o merge de tablas y lograr la visualizacion
 - 🔹 **Futuras mejoras:** Analisis más robusto con múltiples indicadores 
 ---

@@ -288,9 +288,9 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 **Descripción breve:** Este proyecto sencillo consistió en la limpieza y preparación de una tabla con información de empleados proveniente de un archivo de Excel, con el objetivo de dejarla lista para futuros análisis más detallados.
 
 
+- 🔹 **Logros y resultados:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, limpieza, procedimiento almacenado, textos y fechas
 - 🔹 **Casos de uso:** Limpieza básica
-- 🔹 **Resultados:** Obtuvimos una tabla completamente limpia y con los formatos correctos para su posterios uso en diferentes softwares de visualizacion o cualquier analisis que se requiera.
 - 🔹 **Qué aprendí:** Uso de procedimiento almacenado, comparar el uso de MySQL contra pandas para limpieza de datos
 - 🔹 **Futuras mejoras:** Estructurar mejor el flujo de trabajo de la limpieza en MySQL
 
@@ -298,14 +298,13 @@ El enfoque estuvo centrado en producir visualizaciones claras y accesibles que s
 
 
 ### [Proyeccion de trabajos por IA](https://github.com/Jesus20MM/Proyecto-trabajos-por-IA.git)
-**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA utilizando exclusivamente SQL
+**Descripción breve:** En este mini proyecto se pretende dar informacion de alta calidad a partir de una tabla con informacion de empelos influenciados por la IA utilizando exclusivamente SQL y para su futuro análisis con alguna herramienta de visualización.
 
 
+- 🔹 *Resultados y logros:** Disponer de informacion clara para su posterior analsis
 - 🔹 **Tecnologías y habilidades usadas:** MySQL, procedimiento almacenado, uso de diferentes comandos para agrupacion de informacion relevante
-- 🔹 **Casos de uso:** Organizacion de informacion
-- 🔹 *Resultados:** Disponer de informacion clara para su posterior analsis
+- 🔹 **Casos de uso:** Organizacion de información
 - 🔹 **Qué aprendí:** Usar diferentes comandos de MySQL
-- 🔹 **Futuras mejoras:** Hacer más profesional el proyecto incluyendo otro software de visualización.
 ---
 
 

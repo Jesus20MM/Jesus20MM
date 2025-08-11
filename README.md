@@ -375,7 +375,7 @@ Se utilizaron herramientas de análisis y visualización para identificar patron
 
 ## [Excel](https://github.com/Jesus20MM/Proyectos-excel.git)
 
-En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos son equivalentes a los hechos en power BI (mismos datos), pero se intentaron replicar en Excel para ver las similitudes entre los dos softwares
+En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos son equivalentes a los proyectos hechos en Power BI (mismos datos), pero se intentaron replicar en Excel para ver las similitudes entre las dos herramientas
 
 
 

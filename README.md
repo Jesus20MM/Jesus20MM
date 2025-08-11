@@ -346,26 +346,23 @@ La separación en dos reportes permitió abordar de forma específica y detallad
 **Descripción breve:** Este proyecto consistió en el análisis del estatus de entrega y devolución de productos de una empresa, considerando variables como la fecha, el vendedor, el tipo de distribuidor y otros factores relevantes, con el objetivo de evaluar la eficiencia operativa del negocio.
 Se utilizaron herramientas de análisis y visualización para identificar patrones, retrasos y comportamientos recurrentes en los procesos logísticos. El análisis permitió detectar posibles cuellos de botella, diferencias de desempeño entre vendedores o distribuidores, y tendencias temporales en la entrega o devolución de productos.
 
-
-
-
+- 🔹 **Logros y resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados
 - 🔹 **Tecnologías y habilidades usadas:** Inteligencia de negocios, limpieza de datos con power query
 - 🔹 **Casos de uso:** Visualizar eficiencia de procesos logísticos
-- 🔹 **Resultados:** Se logró hacer un dashboard eficiente con los principales indicadores solicitados
+
+
 ---
 
 
 ### [Análisis de satisfacción de clientes](https://github.com/Jesus20MM/Proyecto-satisfaccion-de-clientes.git)
-**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferentes departamentos de una empresa de tecnología
+**Descripción breve:** En este proyecto guiado se pretende analizar la eficiencia y satisfacción de los consumidores a partir de los tickets de diferentes departamentos de una empresa de tecnología.
 
-
-- 🔹 **Tecnologías y habilidades usadas:** Básicos de lenguaje M, creación de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimización de tablas, bookmarks
+- 🔹 **Logros y resultados:** Se logró segmentar por región y país las ventas, utilidad y margen de la empresa. Con esta información se podría tomar decisiones estrategicas del área de mejora de la empresa por región. 
+- 🔹 **Tecnologías y habilidades usadas:** Básicos de lenguaje M, creación de tabla calendario, limpieza de datos con power query, modelo estrella (tabla de hechos y dimensiones), optimización de tablas, bookmarks.
 - 🔹 **Casos de uso:** Identificar satisfacción del cliente 
-- 🔹 **Resultados:** Se logró hacer optimización de tablas de dimensiones, estructurar múltiples visualizaciones con tabla calendario y modelo estrella
-- 🔹 **Qué aprendí:** limpieza con power query, medidas con DAX, creación de tablas calendario para su uso completo en visualizaciones, optimización de visualizaciones
+- 🔹 **Qué aprendí:** Limpieza con power query, medidas con DAX, creación de tablas calendario para su uso completo en visualizaciones, optimización de visualizaciones y modelo.
 
 ---
-
 
 
 
@@ -375,7 +372,7 @@ Se utilizaron herramientas de análisis y visualización para identificar patron
 
 ## [Excel](https://github.com/Jesus20MM/Proyectos-excel.git)
 
-En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos son equivalentes a los proyectos hechos en Power BI (mismos datos), pero se intentaron replicar en Excel para ver las similitudes entre las dos herramientas
+En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos son equivalentes a los proyectos hechos en Power BI (mismos datos), pero se intentaron replicar en Excel para ver las similitudes entre las dos herramientas. En particular los proyectos son: Análisis de ventas de una empresa de electrónica, Análisis de datos financieros y Reporte de producción
 
 
 

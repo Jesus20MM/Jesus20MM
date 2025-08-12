@@ -21,7 +21,7 @@
 
 📚 Formación autodidácta: DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un taller de 120 horas de inteligencia artificial por la UNAM.
 
-📔 Lenguas: Ingles B1 (en progreso) por Quick Learning
+📔 Lenguas: Inglés B1 (en progreso) por Quick Learning
 
 
 
@@ -46,7 +46,7 @@ Tengo experiencia práctica trabajando con:
 
 - Machine learning (regresión, clasificación, conglomerados, optimización, etc)
 
-Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadística y probabilidad, entre otros. Además, me encuentro en permanente formación autodidacta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos.
+Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, series de tiempo, fundamentos de finanzas, POO, estadística y probabilidad, entre otros. Además, me encuentro en permanente formación autodidácta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos.
 
 Actualmente, estoy desarrollando proyectos de:
 
@@ -134,12 +134,12 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 # Formacion autodidácta y continua
 - ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Carrera de científico de machine learning y cursos de finanzas
 - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Cursos de Python, Machine Learning, deep learning, SQL, Power BI, Git y Github, Proyectos guiados, estadística, etc.
-- ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white) Cursos de Python, inglés, programacion básica
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) Especialidad en machine lerning y algunos cursos de finanzas
+- ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=Platzi&logoColor=white) Cursos de Python, inglés, programación básica
+- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) Especialidad en machine learning y algunos cursos de finanzas
 - ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) Práctica de ejercicios de SQL, pandas, etc
 
 
-Mis certifiaciones las puedes encontrar en: (https://github.com/Jesus20MM/Certificaciones.git)
+Mis certificaciones las puedes encontrar en: (https://github.com/Jesus20MM/Certificaciones.git)
 
 
 
@@ -147,7 +147,7 @@ Mis certifiaciones las puedes encontrar en: (https://github.com/Jesus20MM/Certif
 
 Aquí encontrarás algunos de los proyectos en los que he trabajado, algunos con mayor complejidad que otros, relacionados con Data Science, Machine Learning y análisis de datos con diferentes tecnologías.
 Los proyectos están segmentados en:
-- Pyhton
+- Python
 - SQL
 - Power BI
 - Excel
@@ -170,8 +170,8 @@ Se trabajó con un conjunto de datos que incluye información financiera, y de c
 Paralelamente, se implementó un proceso de clasificación evaluando múltiples modelos utilizando técnicas y evaluación de métricas
 
 
-- 🔹 Logros y resultados: De momentó, se ha encontrado el mejor clasificacdor logístico para la detección de morosos lo que permite tener en cuenta a qué usuarios acceder el crédito y a cuáles no.
-- 🔹 Tecnologías y habilidades usadas: Scikit lern, Pandas, Numpy, matplotlib, seaborn, cluterización, regresión, optimización, gradiente descendente, clasificación.
+- 🔹 Logros y resultados: De momento, se ha encontrado el mejor clasificador logístico para la detección de morosos lo que permite tener en cuenta a qué usuarios acceder el crédito y a cuáles no.
+- 🔹 Tecnologías y habilidades usadas: Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización, regresión, optimización, gradiente descendente, clasificación.
 - 🔹 Casos de uso: Segmentación de clientes, tasa de interés, riesgo crediticio
 - 🔹 Qué aprendí: validación cruzada, gradiente descendente, optimización, modelado de regresión, clasificación y segmentación.
 - 🔹 Futuras mejoras: ....... en curso
@@ -194,7 +194,7 @@ Para resolver el problema, se aplicaron tres modelos de machine learning: regres
 - 🔹 **Tecnologías y habilidades usadas:** Pandas, Scikit-Learn, redes neuronales y tensorflow, visualizaciones, Numpy, matplotlib, seaborn, clasificación.
 - 🔹 **Casos de uso:** Predicción de abandono de la empresa.
 - 🔹 **Qué aprendí:** Conocer la mayor parte del flujo de trabajo de un proyecto de ciencia de datos en Python, limpieza de datos, cómo planear y ejecutar visualizaciones para extracción de infromación, modelado predictivo y rendimiento de clasificadores.
-- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluacion más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar el descenso del gradiente con la funcion de costes simplificada para la regresión, implementar XGBoost.
+- 🔹 **Futuras mejoras:** Comparar los resultados de los modelos en conjunto, métodos de evaluación más robusto como validación cruzada, profundizar en la optimizacion de los modelos con sus parámetros e hiperparámetros, implementar el descenso del gradiente con la funcion de costes simplificada para la regresión, implementar XGBoost.
   
 ---
 

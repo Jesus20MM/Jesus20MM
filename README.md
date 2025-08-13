@@ -13,7 +13,7 @@
 
 # Sobre mí
 
-🎓 Estudios: Estudiante de Física en la Universidad Autónoma Metropolitana (CDMX), actualmente finalizando tesis y servicio social en el área de analítica geoespacial, con asesoramiento de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
+🎓 Estudios: Licenciado en Física por la Universidad Autónoma Metropolitana (CDMX), con tesis y servicio social en el área de analítica geoespacial, con asesoramiento de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
 
 🚀 Motivación: Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
 

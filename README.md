@@ -116,17 +116,17 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 
 - 🧠 Pensamiento analítico y abstracto (por mis estudios científicos)
 
-- ❕ Proactividad (he contactado y formado equipos de estudio tanto para ciencia de datos como durante la universidad)
+- ❕ Proactividad (he contactado y formado un equipo de estudio de ciencia de datos y llevar a cabo proyectos y cursos)
 
 - 📢 Comunicación efectiva (en reuniones con mi equipo colaborativo)
 
 - 🤝 Trabajo en equipo y colaboración (con mi equipo colaborativo)
 
-- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente, optimizando el tiempo de forma estratégica, al igual que con mi equipo colaborativo)
+- ⏰ Gestión del tiempo y organización (desde 2022 he estudiado de forma autodidacta y eficiente, optimizando el tiempo de forma estratégica)
 
-- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología, siempre aprendiendo nuevas tecnologías, pero sobre todo, profundizando en las actuales)
+- 🧘 Curiosidad y aprendizaje continuo (apasionado desde las ciencias hasta la tecnología, siempre aprendiendo nuevas tecnologías y profundizando en las actuales)
 
-- 🧩 Resolución de problemas (desde problemas científicos hasta enfrentarme con datos sucios, desbalanceados, etc., en proyectos prácticos)
+- 🧩 Resolución de problemas (desde problemas científicos hasta tecnológicos, enfrentándome con datos sucios, desbalanceados, etc.)
 
 
 

@@ -128,6 +128,8 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 
 - 🧩 Resolución de problemas (desde problemas científicos hasta tecnológicos, enfrentándome con datos sucios, desbalanceados, etc.)
 
+- 🧠 Toma de decisiones basada en evidencia (capacidad de transformar el análisis en insights accionables, evitando quedarse únicamente en la complejidad técnica)
+
 
 
 

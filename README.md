@@ -10,6 +10,9 @@
   <img src="https://assets.gocoderz.xyz/site/wp-content/uploads/2017/02/shutterstock_239157115-460x320.jpg" height="200"/>
 </p>
 
+Mis CV lo puedes encontrar en: (https://github.com/Jesus20MM/CV_Jesus_munguia_moreno.git)
+
+
 
 # Sobre mí
 

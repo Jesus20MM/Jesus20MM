@@ -185,7 +185,17 @@ Paralelamente, se implementó un proceso de clasificación evaluando múltiples 
 ---
 
 
+ ### [Análisis de super mercado](https://github.com/Jesus20MM/SeuperMarket.git) 
 
+En curso...
+
+Descripción breve:
+
+
+- 🔹 Logros y resultados: 
+- 🔹 Tecnologías y habilidades usadas: 
+- 🔹 Qué aprendí: 
+- 🔹 Futuras mejoras: 
 
 
 

@@ -424,9 +424,10 @@ En este repositorio encontrarás mis proyectos hechos en Excel. Estos proyectos 
 </a>
  <!-- Outlook (Microsoft Email) -->
 <!-- Outlook (Microsoft Email) con tooltip -->
-<a href="mailto:jesus_secundaria400@outlook.com" style="margin-left: 20px;" title="jesus_secundaria400@outlook.com">
-  <img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019.png" alt="outlook" height="50" width="50" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jesusmun150@gmail.com" target="_blank" style="margin-left: 20px;" title="jesusmun150@gmail.com">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="50" width="50" />
 </a>
+
 
 
 

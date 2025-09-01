@@ -3,7 +3,8 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning...;Entusiasta+de+las+finanzas"/>
+<!-- Entusiasta+de+las+finanzas -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning..."/>
 
 
 <p align="center">
@@ -49,16 +50,17 @@ Tengo experiencia práctica trabajando con:
 
 - Machine learning (regresión, clasificación, conglomerados, optimización, etc)
 
-Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, estadística y probabilidad, fundamentos de series de tiempo, finanzas, POO, , entre otros. Además, me encuentro en permanente formación autodidácta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos.
+Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, estadística y probabilidad, fundamentos de series de tiempo, finanzas, POO, , entre otros. Además, me encuentro en permanente formación autodidácta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos. Cabe mencionar que esto es el trabajo de 3 años de preparación (no de un día para otro).
 
 Actualmente, estoy desarrollando proyectos de:
 
 - Estudio de clientes de banco (morosos, segmentación, tasas de interés)
+- Análisis de supermercado (simulación de caso real)
 
 
 Objetivo profesional.
 
-Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio y continuar aprendiendo con proyectos desafiantes.
+Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio y continuar aprendiendo y creciendo con proyectos desafiantes.
 
 
 

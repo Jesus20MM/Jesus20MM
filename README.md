@@ -2,9 +2,9 @@
 
 
 
-
 <!-- Entusiasta+de+las+finanzas -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning..."/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+soy+Jesús,+Físico;Data+Scientist+Jr...;Machine+Learning..." />
 
 
 <p align="center">
@@ -91,7 +91,7 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 
 
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  ![Analítica Geoespacial](https://img.shields.io/badge/Anal%C3%ADtica%20Geoespacial-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Finanzas](https://img.shields.io/badge/Finanzas-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white) ![Estadística](https://img.shields.io/badge/Estadística-1E90FF?style=for-the-badge&logo=chart-bar&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-FF6347?style=for-the-badge&logo=clockify&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)  ![Analítica Geoespacial](https://img.shields.io/badge/Anal%C3%ADtica%20Geoespacial-589632?style=for-the-badge&logo=qgis&logoColor=white) <!-- ![Finanzas](https://img.shields.io/badge/Finanzas-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) --> ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 
 
@@ -105,18 +105,20 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 | Tecnología o habilidad | Nivel |
 |------------------------|-------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85% |
+| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 75% |
 | ![Estadística y Probabilidad](https://img.shields.io/badge/Estadística%20y%20Probabilidad-4CAF50?style=for-the-badge&logo=chart-bar&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 75% |
-| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70% |
 | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) | 🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜ 75% |
-| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 65% |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) | 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 70% |
 | ![Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=amazonaws&logoColor=white) | Intermedio (B1 en progreso) |
-| ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 50% |
+| ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
 | ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-1E90FF?style=for-the-badge&logo=clockify&logoColor=white) | 🔵🔵🔵🔵🔵⬜⬜⬜⬜⬜ 50% |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | 🟠🟠🟠🟠🟠⬜⬜⬜⬜⬜ 50% |
 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=for-the-badge&logo=pytorch&logoColor=white) | 🟣🟣🟣🟣⬜⬜⬜⬜⬜⬜ 40% |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🟠🟠🟠🟠🟠⬜⬜⬜⬜⬜ 40% |
-| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 30% |
-| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
-| ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | 🟠🟠🟠⬜⬜⬜⬜⬜⬜⬜ 30% |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
+| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠⬜⬜⬜⬜⬜⬜⬜ 40% |
+| ![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | 65% |
+
 
 
 

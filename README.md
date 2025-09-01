@@ -112,12 +112,13 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 | ![Inglés](https://img.shields.io/badge/Inglés-1E90FF?style=for-the-badge&logo=amazonaws&logoColor=white) | Intermedio (B1 en progreso) |
 | ![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-FFA500?style=for-the-badge&logo=chatgpt&logoColor=white) | 🟠🟠🟠🟠🟠🟠⬜⬜⬜⬜ 60% |
 | ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-1E90FF?style=for-the-badge&logo=clockify&logoColor=white) | 🔵🔵🔵🔵🔵⬜⬜⬜⬜⬜ 50% |
-| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
 | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | 🟠🟠🟠🟠🟠⬜⬜⬜⬜⬜ 50% |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| ![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜  65% |
 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=for-the-badge&logo=pytorch&logoColor=white) | 🟣🟣🟣🟣⬜⬜⬜⬜⬜⬜ 40% |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
 | ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠⬜⬜⬜⬜⬜⬜⬜ 40% |
-| ![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜  65% |
+
 
 
 

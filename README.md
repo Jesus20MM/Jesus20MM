@@ -117,7 +117,7 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=for-the-badge&logo=pytorch&logoColor=white) | 🟣🟣🟣🟣⬜⬜⬜⬜⬜⬜ 40% |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
 | ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠⬜⬜⬜⬜⬜⬜⬜ 40% |
-| ![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ | 65% |
+| ![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜  65% |
 
 
 
@@ -193,17 +193,17 @@ Paralelamente, se implementó un proceso de clasificación evaluando múltiples 
 ---
 
 
- ### [Análisis de super mercado](https://github.com/Jesus20MM/SeuperMarket.git) 
+ ### [Análisis de supermercado](https://github.com/Jesus20MM/SeuperMarket.git) 
 
 En curso...
 
-Descripción breve:
+Descripción breve: En este proyecto se simula la solicitud de un cliente que requiere el análisis de datos de una cadena de supermercados en Estados Unidos. El cliente proporciona una idea general de sus necesidades, pero nos pide extraer el máximo valor posible del conjunto de datos. El objetivo es obtener información relevante mediante visualizaciones y aplicar algoritmos de machine learning para modelar los datos, generando así hallazgos que permitan aprovechar al máximo la información disponible.
 
 
-- 🔹 Logros y resultados: 
-- 🔹 Tecnologías y habilidades usadas: 
-- 🔹 Qué aprendí: 
-- 🔹 Futuras mejoras: 
+- 🔹 Logros y resultados: Uso de pipelines para la autimatización del flujo de trabajo, versionado del proyecto según objetivos para organizar y estructural correctamente el trabajo, simulación de caso real con ajuste de fecha y objetivos
+- 🔹 Tecnologías y habilidades usadas: Python, SQL, Power BI, Excel, machine learning .....
+- 🔹 Qué aprendí: Pipelineas para diferentes flujos ....
+- 🔹 Futuras mejoras: Completar el informe con Power BI o diapositivas con información clave, completar la normalización de la tabla incial ....
 
 
 

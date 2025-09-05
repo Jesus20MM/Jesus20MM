@@ -60,7 +60,7 @@ Actualmente, estoy desarrollando proyectos de:
 
 Objetivo profesional.
 
-Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio y continuar aprendiendo y creciendo con proyectos desafiantes.
+Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, machine learning y visualización para resolver problemas reales de negocio, continuar aprendiendo y creciendo con proyectos desafiantes.
 
 
 

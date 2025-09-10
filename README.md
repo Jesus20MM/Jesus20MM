@@ -50,7 +50,7 @@ Tengo experiencia práctica trabajando con:
 
 - Machine learning (regresión, clasificación, conglomerados, optimización, etc)
 
-Tengo múltiples proyectos hechos en Python, SQL, Power BI y algunos en Excel. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, estadística y probabilidad, fundamentos de series de tiempo, finanzas, POO, , entre otros. Además, me encuentro en permanente formación autodidácta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos. Cabe mencionar que esto es el trabajo de 3 años de preparación (no de un día para otro).
+Tengo múltiples proyectos hechos en Python, SQL, Power BI y Excel sobre análisis de datos. Te invito a verlos en la sección correspondiente más abajo y en sus respectivos repositorios. Adicionalmente, tengo otros conocimientos teóricos como machine learning, deep learning, estadística y probabilidad, fundamentos de series de tiempo, finanzas básicas, fundamentos de POO, fundamentos de BigQuery y looker studio, entre otros. Además, me encuentro en permanente formación autodidácta con cursos y rutas personalizadas que he diseñado, con alto compromiso y dedicación en mi aprendizaje y proyectos. Cabe mencionar que esto es el trabajo de 3 años de preparación y no de un día para otro.
 
 Actualmente, estoy desarrollando proyectos de:
 
@@ -114,10 +114,11 @@ Busco integrarme en un equipo donde pueda aplicar mis habilidades en Python, mac
 | ![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge) | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜  65% |
 | ![Series de Tiempo](https://img.shields.io/badge/Series%20de%20Tiempo-1E90FF?style=for-the-badge&logo=clockify&logoColor=white) | 🔵🔵🔵🔵🔵⬜⬜⬜⬜⬜ 50% |
 | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | 🟠🟠🟠🟠🟠⬜⬜⬜⬜⬜ 50% |
-| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
 | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-800080?style=for-the-badge&logo=pytorch&logoColor=white) | 🟣🟣🟣🟣⬜⬜⬜⬜⬜⬜ 40% |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
-| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠⬜⬜⬜⬜⬜⬜⬜ 40% |
+| ![Analítica geoespacial](https://img.shields.io/badge/Analítica%20Geoespacial-FFA500?style=for-the-badge&logo=qgis&logoColor=white) | 🟠🟠🟠🟠⬜⬜⬜⬜⬜⬜ 40% |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
+
 
 
 

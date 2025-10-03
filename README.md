@@ -17,7 +17,7 @@ Mis CV lo puedes encontrar en: (https://github.com/Jesus20MM/CV_Jesus_munguia_mo
 
 # Sobre mí
 
-🎓 Estudios: Licenciado en Física por la Universidad Autónoma Metropolitana (CDMX), con tesis y servicio social en el área de analítica geoespacial, con asesoramiento de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
+🎓 Estudios: Licenciado en Física por la Universidad Autónoma Metropolitana (CDMX), con tesis y servicio social en el área de analítica geoespacial,bajo la supervisión de un doctor en el área de ciencia de datos y modelado de sistemas complejos de la Universidad Autónoma Metropolitana.
 
 🚀 Motivación: Apasionado por la ciencia de datos y el aprendizaje automático desde 2022.  
 

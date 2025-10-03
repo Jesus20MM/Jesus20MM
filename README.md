@@ -23,7 +23,7 @@ Mis CV lo puedes encontrar en: (https://github.com/Jesus20MM/CV_Jesus_munguia_mo
 
 🏡 Vivo en Estado de México, México.  
 
-📚 Formación autodidácta: DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un taller de 120 horas de inteligencia artificial por la UNAM.
+📚 Formación autodidácta y profesionalizante: DataCamp (científico de machine learning), Coursera (especialidad en machine learning) y Udemy (múltiples habilidades y tecnologías). También poseo un diplomado en ciencia de datos por el Tecnológico Nacional de México y un taller de 120 horas de inteligencia artificial por la UNAM.
 
 📔 Lenguas: Inglés B1 (en progreso) por Quick Learning
 

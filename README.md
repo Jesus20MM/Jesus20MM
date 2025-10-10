@@ -185,7 +185,7 @@ Paralelamente, se implementó un proceso de clasificación evaluando múltiples 
 - 🔹 Tecnologías y habilidades usadas: Scikit lern, Pandas, Numpy, matplotlib, seaborn, clusterización, regresión, optimización, gradiente descendente, clasificación.
 - 🔹 Casos de uso: Segmentación de clientes, tasa de interés, riesgo crediticio
 - 🔹 Qué aprendí: validación cruzada, gradiente descendente, optimización, modelado de regresión, clasificación y segmentación.
-- 🔹 Futuras mejoras: ....... en curso
+- 🔹 Futuras mejoras: .......
 
 
 ---
@@ -198,10 +198,10 @@ En curso...
 Descripción breve: En este proyecto se simula la solicitud de un cliente que requiere el análisis de datos de una cadena de supermercados en Estados Unidos. El cliente proporciona una idea general de sus necesidades, pero nos pide extraer el máximo valor posible del conjunto de datos. El objetivo es obtener información relevante mediante visualizaciones y aplicar algoritmos de machine learning para modelar los datos, generando así hallazgos que permitan aprovechar al máximo la información disponible.
 
 
-- 🔹 Logros y resultados: Uso de pipelines para la autimatización del flujo de trabajo, versionado del proyecto según objetivos para organizar y estructural correctamente el trabajo, simulación de caso real con ajuste de fecha y objetivos
+- 🔹 Logros y resultados: Uso de pipelines para la autimatización del flujo de trabajo, versionado del proyecto según objetivos para organizar y estructurar correctamente el trabajo, simulación de caso real.
 - 🔹 Tecnologías y habilidades usadas: Python, SQL, Power BI, Excel, machine learning .....
 - 🔹 Qué aprendí: Pipelineas para diferentes flujos ....
-- 🔹 Futuras mejoras: Completar el informe con Power BI o diapositivas con información clave, completar la normalización de la tabla incial ....
+- 🔹 Futuras mejoras: ....
 
 
 

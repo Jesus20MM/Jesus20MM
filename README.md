@@ -227,10 +227,10 @@ Para lograrlo, se utilizó Python como herramienta principal, realizando un exha
 Una parte destacada del trabajo fue el desarrollo de un script en Python que permite generar múltiples visualizaciones iterativas de manera automatizada, facilitando la comparación entre países y causas a lo largo del tiempo. Este enfoque habría sido considerablemente más complejo de implementar en otros entornos no programables. El análisis permitió identificar tendencias clave y diferencias notables entre ambos países en cuanto a las causas predominantes de mortalidad.
 
 - 🔹 **Logros y resultados:** Visualizaciones múltiples de las causas de muerte en China y EUA desde 1990 hasta 2019. Esto permite entender el cambio en el comportamiento de las enfermedades en el tiempo y tomar decisiones gubernamentales, por ejemplo, hacia qué área de prevención invertir óptimamente 
-- 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, matplotlib, seaborn.
-- 🔹 **Casos de uso:** Visualizaciones de tendencia. 
-- 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, formas de usar la logica para automatizar visualizaciones, hacer analogía del uso de Python contra otras herramientas de visualización, automatización de visualizaciones objetivo.
-- 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software de visualizacion para resumir los resultados
+- 🔹 **Tecnologías y habilidades usadas:** Pandas, Numpy, matplotlib, seaborn, programación, visualización y limpieza de datos
+- 🔹 **Casos de uso:** Visualizaciones múltiples de tendencia. 
+- 🔹 **Qué aprendí:** Cómo organizar una tabla según el objetivo de la visualizacion, formas de usar la logica para automatizar y visualizaciones, hacer analogía del uso de Python contra otras herramientas de visualización.
+- 🔹 **Futuras mejoras:** La calidad de los graficos se puede disponer más estética, se pueden analizar más países y comparar continentes o países vecinos para obtener tendencias o ver qué sistema de salud es más eficiente para replicar ciertas conductas adaptadas al país analizado, se puede elaborar un reporte en otro software  de visualizacion o documento para resumir los resultados.
 ---
 
 ### [Planeación de campaña de marketing con Segmentación](https://github.com/Jesus20MM/Proyecto-Marketing.git)

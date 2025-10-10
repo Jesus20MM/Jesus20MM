@@ -171,7 +171,7 @@ Los proyectos están segmentados en:
 ## Python
 
 
- ### [Riesgo crediticio](https://github.com/Jesus20MM/Riesgo-crediticio.git) 
+ ### [Riesgo crediticio](https://github.com/Jesus20MM/riesgo_crediticio.git) 
 
 En curso...
 

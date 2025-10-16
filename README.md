@@ -178,7 +178,7 @@ En curso...
 Descripción breve: Este proyecto tiene como objetivo predecir la tasa de interés asignada a cada cliente en función de características individuales, así como segmentar a los clientes para apoyar decisiones estratégicas en campañas de marketing y evaluación de riesgo crediticio con morosos.
 
 Se trabaja con un conjunto de datos que incluye información financiera, y de comportamiento de los clientes. Para la predicción de la tasa de interés, se aplicaron modelos de regresión.
-Paralelamente, se implementó un proceso de clasificación evaluando múltiples modelos utilizando técnicas y evaluación de métricas
+Lo que se propone es trabajar con dos ramas principales una llamada visualización y otra modelado. Las ramas de visualización Tiene por objetivo cumplir con las necesidades del análisis diagnóstico y descriptivo, en cambio, la rama de modelado tiene como onbjetivo cubrir los objetivos donde se debe implementas modelos de aprendizaje automático.
 
 
 - 🔹 Logros y resultados: De momento, se ha encontrado el mejor clasificador logístico para la detección de morosos lo que permite tener en cuenta a qué usuarios acceder el crédito y a cuáles no.
